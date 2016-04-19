@@ -1,0 +1,65 @@
+{
+  "id": 370743123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.10024,38.943904,-77.10024,38.943904",
+    "geom:latitude":38.943904,
+    "geom:longitude":-77.10024,
+    "iso:country":"US",
+    "sg:address":"5010 Warren St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 7431",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vV6kJzDwpripMi6heeVtD_38.943904_-77.100240@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a15de00bc45fc7fa4324f040808324e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370743123
+        }
+    ],
+    "wof:id":370743123,
+    "wof:lastmodified":1449032447,
+    "wof:name":"PEPCO",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.10024,38.943904,-77.10024,38.943904],
+  "geometry": {"coordinates":[-77.10024,38.943904],"type":"Point"}
+}

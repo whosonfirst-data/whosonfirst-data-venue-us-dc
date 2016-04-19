@@ -1,0 +1,66 @@
+{
+  "id": 387349103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.017174,38.949951,-77.017174,38.949951",
+    "geom:latitude":38.949951,
+    "geom:longitude":-77.017174,
+    "iso:country":"US",
+    "sg:address":"324 Emerson St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 464 0139",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85841475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qjIVmnSS4IOC0ukJlhKR6_38.949951_-77.017174@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"628e0bd18061e8b1c605dcab9f4d3376",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85841475,
+            "region_id":85688741,
+            "venue_id":387349103
+        }
+    ],
+    "wof:id":387349103,
+    "wof:lastmodified":1449057542,
+    "wof:name":"Power Inc",
+    "wof:parent_id":85841475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.017174,38.949951,-77.017174,38.949951],
+  "geometry": {"coordinates":[-77.017174,38.949951],"type":"Point"}
+}

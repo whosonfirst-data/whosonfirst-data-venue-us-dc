@@ -1,0 +1,66 @@
+{
+  "id": 354302691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.014969,38.980367,-77.014969,38.980367",
+    "geom:latitude":38.980367,
+    "geom:longitude":-77.014969,
+    "iso:country":"US",
+    "sg:address":"7217 Holly Ave",
+    "sg:city":"Takoma Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 587 0310",
+    "sg:postcode":"20912",
+    "sg:province":"MD",
+    "sg:tags":[
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85851759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NnpdnkGTJqRMEVsxnkBQt_38.980367_-77.014969@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2bf68eadd05b49c10e3bb993ce91d867",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85851759,
+            "region_id":85688741,
+            "venue_id":354302691
+        }
+    ],
+    "wof:id":354302691,
+    "wof:lastmodified":1449066483,
+    "wof:name":"Sharon Wolchik",
+    "wof:parent_id":85851759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education"
+    ]
+},
+  "bbox": [-77.014969,38.980367,-77.014969,38.980367],
+  "geometry": {"coordinates":[-77.014969,38.980367],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 320522939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.006859,38.943567,-77.006859,38.943567",
+    "geom:latitude":38.943567,
+    "geom:longitude":-77.006859,
+    "iso:country":"US",
+    "sg:address":"19 Village Pl",
+    "sg:city":"Victor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 208 787 7888",
+    "sg:postcode":"83455",
+    "sg:province":"ID",
+    "sg:website":"www.tetonspringslodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85853517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hm3Cgp8kX3iXUzUUOBjFP_38.943567_-77.006859@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7d7d5fb49e5ee78dca839830b55099c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85853517,
+            "region_id":85688741,
+            "venue_id":320522939
+        }
+    ],
+    "wof:id":320522939,
+    "wof:lastmodified":1449013033,
+    "wof:name":"Teton Springs Lodge & Spa",
+    "wof:parent_id":85853517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.006859,38.943567,-77.006859,38.943567],
+  "geometry": {"coordinates":[-77.006859,38.943567],"type":"Point"}
+}

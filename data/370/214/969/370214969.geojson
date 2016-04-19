@@ -1,0 +1,65 @@
+{
+  "id": 370214969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027103,38.972308,-77.027103,38.972308",
+    "geom:latitude":38.972308,
+    "geom:longitude":-77.027103,
+    "iso:country":"US",
+    "sg:address":"6666 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 1226",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jJmQA7WGhyBqtwaAhsEB1_38.972308_-77.027103@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f5609d5d545b9a4f19604d57f90f927",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370214969
+        }
+    ],
+    "wof:id":370214969,
+    "wof:lastmodified":1449032364,
+    "wof:name":"Aspen Court Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-77.027103,38.972308,-77.027103,38.972308],
+  "geometry": {"coordinates":[-77.027103,38.972308],"type":"Point"}
+}

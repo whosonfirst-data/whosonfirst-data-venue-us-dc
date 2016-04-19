@@ -1,0 +1,61 @@
+{
+  "id": 353780103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.096114,38.932296,-77.096114,38.932296",
+    "geom:latitude":38.932296,
+    "geom:longitude":-77.096114,
+    "iso:country":"US",
+    "sg:address":"4830 Loughboro Rd NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 332 6875",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:website":"www.aboutcsbe.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PSN9Y34LhyuTovlFnzVoh_38.932296_-77.096114@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb2d863bbc6df7e0727037c257182417",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353780103
+        }
+    ],
+    "wof:id":353780103,
+    "wof:lastmodified":1449020159,
+    "wof:name":"Center For Small Business",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.096114,38.932296,-77.096114,38.932296],
+  "geometry": {"coordinates":[-77.096114,38.932296],"type":"Point"}
+}

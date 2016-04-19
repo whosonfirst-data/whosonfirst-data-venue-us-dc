@@ -1,0 +1,60 @@
+{
+  "id": 354176759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.02667,38.984455,-77.02667,38.984455",
+    "geom:latitude":38.984455,
+    "geom:longitude":-77.02667,
+    "iso:country":"US",
+    "sg:address":"7716 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 7032",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PsMKYnVyKOGLkpCFMwC60_38.984455_-77.026670@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e1fe79ae0c4c5c2755a46789c46deb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354176759
+        }
+    ],
+    "wof:id":354176759,
+    "wof:lastmodified":1449067087,
+    "wof:name":"Catherine D Gibbs Barber",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.02667,38.984455,-77.02667,38.984455],
+  "geometry": {"coordinates":[-77.02667,38.984455],"type":"Point"}
+}

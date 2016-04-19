@@ -1,0 +1,72 @@
+{
+  "id": 370356189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.086969,38.94133,-77.086969,38.94133",
+    "geom:latitude":38.94133,
+    "geom:longitude":-77.086969,
+    "iso:country":"US",
+    "sg:address":"4439 Springdale St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 966 5177",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "motion",
+        "picture",
+        "studio",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85857115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OAUoCa0XyHOyFKss5ijHn_38.941330_-77.086969@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10823e82127ea1ccc25d11adf301891f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85857115,
+            "region_id":85688741,
+            "venue_id":370356189
+        }
+    ],
+    "wof:id":370356189,
+    "wof:lastmodified":1449031874,
+    "wof:name":"Klein Entertainment",
+    "wof:parent_id":85857115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture",
+        "studio",
+        "producer"
+    ]
+},
+  "bbox": [-77.086969,38.94133,-77.086969,38.94133],
+  "geometry": {"coordinates":[-77.086969,38.94133],"type":"Point"}
+}

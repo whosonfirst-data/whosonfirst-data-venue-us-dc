@@ -1,0 +1,67 @@
+{
+  "id": 370266289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.01945,38.964876,-77.01945,38.964876",
+    "geom:latitude":38.964876,
+    "geom:longitude":-77.01945,
+    "iso:country":"US",
+    "sg:address":"426 Rittenhouse St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 829 5900",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "puppet",
+        "marionette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZeRTcvXAuNytsVWbexs1K_38.964876_-77.019450@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18430818c8786790b9e0dc1671301e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370266289
+        }
+    ],
+    "wof:id":370266289,
+    "wof:lastmodified":1449029170,
+    "wof:name":"Silly Socks Puppet Theatre",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "puppet",
+        "marionette"
+    ]
+},
+  "bbox": [-77.01945,38.964876,-77.01945,38.964876],
+  "geometry": {"coordinates":[-77.01945,38.964876],"type":"Point"}
+}

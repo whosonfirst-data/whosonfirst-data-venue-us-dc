@@ -1,0 +1,66 @@
+{
+  "id": 185678015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.004235,38.959621,-77.004235,38.959621",
+    "geom:latitude":38.959621,
+    "geom:longitude":-77.004235,
+    "iso:country":"US",
+    "sg:address":"5600 2nd St NE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 529 6500",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.techna-graphics.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dvnjFLvCyEG5MUU3xxxyu_38.959621_-77.004235@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45cc0902b0efed0e63e06d389dcee816",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":185678015
+        }
+    ],
+    "wof:id":185678015,
+    "wof:lastmodified":1449007400,
+    "wof:name":"Techna Graphics Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [-77.004235,38.959621,-77.004235,38.959621],
+  "geometry": {"coordinates":[-77.004235,38.959621],"type":"Point"}
+}

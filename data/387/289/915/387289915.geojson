@@ -1,0 +1,61 @@
+{
+  "id": 387289915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.032802,38.941649,-77.032802,38.941649",
+    "geom:latitude":38.941649,
+    "geom:longitude":-77.032802,
+    "iso:country":"US",
+    "sg:address":"4120 14th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 291 8241",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l36y7USxNuWv126fKIa5b_38.941649_-77.032802@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e47e60872be44492f9f9f59043319aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":387289915
+        }
+    ],
+    "wof:id":387289915,
+    "wof:lastmodified":1449059295,
+    "wof:name":"Isidro Mello Tolentino",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.032802,38.941649,-77.032802,38.941649],
+  "geometry": {"coordinates":[-77.032802,38.941649],"type":"Point"}
+}

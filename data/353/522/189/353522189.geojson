@@ -1,0 +1,69 @@
+{
+  "id": 353522189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.072091,38.937256,-77.072091,38.937256",
+    "geom:latitude":38.937256,
+    "geom:longitude":-77.072091,
+    "iso:country":"US",
+    "sg:address":"3602 Porter St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 4628",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "puppet",
+        "marionette"
+    ],
+    "sg:website":"www.nannygoat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Vc69JN6rHdvcWeVAXfOG_38.937256_-77.072091@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"475560d76ed66ed6e4eb954a120f503d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869757,
+            "region_id":85688741,
+            "venue_id":353522189
+        }
+    ],
+    "wof:id":353522189,
+    "wof:lastmodified":1449019479,
+    "wof:name":"Nanny Goat Productions",
+    "wof:parent_id":85869757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "puppet",
+        "marionette"
+    ]
+},
+  "bbox": [-77.072091,38.937256,-77.072091,38.937256],
+  "geometry": {"coordinates":[-77.072091,38.937256],"type":"Point"}
+}

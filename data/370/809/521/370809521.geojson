@@ -1,0 +1,68 @@
+{
+  "id": 370809521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.964426,38.938791,-76.964426,38.938791",
+    "geom:latitude":38.938791,
+    "geom:longitude":-76.964426,
+    "iso:country":"US",
+    "sg:address":"4017 31st St",
+    "sg:city":"Mount Rainier",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 864 3278",
+    "sg:postcode":"20712",
+    "sg:province":"MD",
+    "sg:tags":[
+        "school",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85858903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W5Kw3f8MnalnWPeFe7qRa_38.938791_-76.964426@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"543e62655b552c9572b445f0a0b5e975",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
+            "venue_id":370809521
+        }
+    ],
+    "wof:id":370809521,
+    "wof:lastmodified":1449031864,
+    "wof:name":"Karen Kettering",
+    "wof:parent_id":85858903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "educational"
+    ]
+},
+  "bbox": [-76.964426,38.938791,-76.964426,38.938791],
+  "geometry": {"coordinates":[-76.964426,38.938791],"type":"Point"}
+}

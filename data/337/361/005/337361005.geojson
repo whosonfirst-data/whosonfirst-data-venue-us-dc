@@ -1,0 +1,67 @@
+{
+  "id": 337361005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026481,38.982711,-77.026481,38.982711",
+    "geom:latitude":38.982711,
+    "geom:longitude":-77.026481,
+    "iso:country":"US",
+    "sg:address":"7603 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 7250",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xqkv9eaNLLssFEsO34aCo_38.982711_-77.026481@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e05135bebedf8297d31829dbbf2c372e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":337361005
+        }
+    ],
+    "wof:id":337361005,
+    "wof:lastmodified":1449027547,
+    "wof:name":"Metropolitan Tactical Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [-77.026481,38.982711,-77.026481,38.982711],
+  "geometry": {"coordinates":[-77.026481,38.982711],"type":"Point"}
+}

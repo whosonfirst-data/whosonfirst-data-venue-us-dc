@@ -1,0 +1,68 @@
+{
+  "id": 371117981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.103852,38.931598,-77.103852,38.931598",
+    "geom:latitude":38.931598,
+    "geom:longitude":-77.103852,
+    "iso:country":"US",
+    "sg:address":"5139 Klingle St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 363 3199",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "foundation",
+        "philanthropic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85828105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PL5OQyXSjQ1GTMSuKlAYF_38.931598_-77.103852@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"914f22f689db64ce547d0c3219db8e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85828105,
+            "region_id":85688741,
+            "venue_id":371117981
+        }
+    ],
+    "wof:id":371117981,
+    "wof:lastmodified":1449049773,
+    "wof:name":"Stuttering Foundation-America",
+    "wof:parent_id":85828105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation",
+        "philanthropic"
+    ]
+},
+  "bbox": [-77.103852,38.931598,-77.103852,38.931598],
+  "geometry": {"coordinates":[-77.103852,38.931598],"type":"Point"}
+}

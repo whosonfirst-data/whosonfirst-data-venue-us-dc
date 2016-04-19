@@ -1,0 +1,60 @@
+{
+  "id": 370183641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.017456,38.974786,-77.017456,38.974786",
+    "geom:latitude":38.974786,
+    "geom:longitude":-77.017456,
+    "iso:country":"US",
+    "sg:address":"304 Carroll St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 2945",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t2uGRsMBgNWKPx7a8MZoe_38.974786_-77.017456@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e240d4bc692d5be4240e59e05f5518ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370183641
+        }
+    ],
+    "wof:id":370183641,
+    "wof:lastmodified":1449030895,
+    "wof:name":"Philly's Steak Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.017456,38.974786,-77.017456,38.974786],
+  "geometry": {"coordinates":[-77.017456,38.974786],"type":"Point"}
+}

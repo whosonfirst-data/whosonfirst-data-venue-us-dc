@@ -1,0 +1,67 @@
+{
+  "id": 370914863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.059676,38.961161,-77.059676,38.961161",
+    "geom:latitude":38.961161,
+    "geom:longitude":-77.059676,
+    "iso:country":"US",
+    "sg:address":"5445 30th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 362 1660",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "automobile",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64PJBbo675mqI4jVAFfVA6_38.961161_-77.059676@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bf0104eccb06c26c2d4006eaa012617",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370914863
+        }
+    ],
+    "wof:id":370914863,
+    "wof:lastmodified":1449030379,
+    "wof:name":"Carscape Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory"
+    ]
+},
+  "bbox": [-77.059676,38.961161,-77.059676,38.961161],
+  "geometry": {"coordinates":[-77.059676,38.961161],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 370809987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.952894,38.858543,-76.952894,38.858543",
+    "geom:latitude":38.858543,
+    "geom:longitude":-76.952894,
+    "iso:country":"US",
+    "sg:address":"3703 Woodsman Ct",
+    "sg:city":"Suitland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 967 7368",
+    "sg:postcode":"20746",
+    "sg:province":"MD",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85825385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03mPCOAxL2xdlDtf05hPr0_38.858543_-76.952894@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9374ffeb19337f6daa4eb6fc05698183",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85825385,
+            "region_id":85688741,
+            "venue_id":370809987
+        }
+    ],
+    "wof:id":370809987,
+    "wof:lastmodified":1449031863,
+    "wof:name":"Innova Securities Inc",
+    "wof:parent_id":85825385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [-76.952894,38.858543,-76.952894,38.858543],
+  "geometry": {"coordinates":[-76.952894,38.858543],"type":"Point"}
+}

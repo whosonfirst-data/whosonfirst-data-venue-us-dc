@@ -1,0 +1,65 @@
+{
+  "id": 337343583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026518,38.984346,-77.026518,38.984346",
+    "geom:latitude":38.984346,
+    "geom:longitude":-77.026518,
+    "iso:country":"US",
+    "sg:address":"7825 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 291 4749",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69U3bls0oQ2JrRKzzMZaGo_38.984346_-77.026518@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd31ae8ca966c3079a81792772c55a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":337343583
+        }
+    ],
+    "wof:id":337343583,
+    "wof:lastmodified":1449027522,
+    "wof:name":"District Line Auto Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [-77.026518,38.984346,-77.026518,38.984346],
+  "geometry": {"coordinates":[-77.026518,38.984346],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 370532065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.988627,38.841894,-76.988627,38.841894",
+    "geom:latitude":38.841894,
+    "geom:longitude":-76.988627,
+    "iso:country":"US",
+    "sg:address":"1208 Congress St SE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 561 1089",
+    "sg:postcode":"20032",
+    "sg:province":"MD",
+    "sg:tags":[
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85812073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wQhwlWsa9a2ildCjrzvyL_38.841894_-76.988627@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b81851f62c335942d61846189cd8a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85812073,
+            "region_id":85688741,
+            "venue_id":370532065
+        }
+    ],
+    "wof:id":370532065,
+    "wof:lastmodified":1449030239,
+    "wof:name":"Anacostia Electronics",
+    "wof:parent_id":85812073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio"
+    ]
+},
+  "bbox": [-76.988627,38.841894,-76.988627,38.841894],
+  "geometry": {"coordinates":[-76.988627,38.841894],"type":"Point"}
+}

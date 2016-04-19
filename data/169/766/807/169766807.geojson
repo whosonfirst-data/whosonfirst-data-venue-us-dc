@@ -1,0 +1,61 @@
+{
+  "id": 169766807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.072575,38.972862,-77.072575,38.972862",
+    "geom:latitude":38.972862,
+    "geom:longitude":-77.072575,
+    "iso:country":"US",
+    "sg:address":"110 Newlands St",
+    "sg:city":"Chevy Chase",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 656 4346",
+    "sg:postcode":"20815",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85810805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l5QAp5E1fHgdA8xgq8pf6_38.972862_-77.072575@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e93272e8bb54627de5e4f13952369df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85810805,
+            "region_id":85688741,
+            "venue_id":169766807
+        }
+    ],
+    "wof:id":169766807,
+    "wof:lastmodified":1449032639,
+    "wof:name":"Samuel Dash",
+    "wof:parent_id":85810805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.072575,38.972862,-77.072575,38.972862],
+  "geometry": {"coordinates":[-77.072575,38.972862],"type":"Point"}
+}

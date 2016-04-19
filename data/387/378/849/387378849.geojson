@@ -1,0 +1,66 @@
+{
+  "id": 387378849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.022365,38.957446,-77.022365,38.957446",
+    "geom:latitude":38.957446,
+    "geom:longitude":-77.022365,
+    "iso:country":"US",
+    "sg:address":"501 Longfellow St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 882 7022",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553KIVah8aaBKLVcZcCTDo_38.957446_-77.022365@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7fa588c821d02148e6253b6b821a4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":387378849
+        }
+    ],
+    "wof:id":387378849,
+    "wof:lastmodified":1449058674,
+    "wof:name":"PMBS Proctors Medical Bllng",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [-77.022365,38.957446,-77.022365,38.957446],
+  "geometry": {"coordinates":[-77.022365,38.957446],"type":"Point"}
+}

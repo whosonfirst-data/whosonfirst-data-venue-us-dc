@@ -1,0 +1,66 @@
+{
+  "id": 370332547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.035559,38.967603,-77.035559,38.967603",
+    "geom:latitude":38.967603,
+    "geom:longitude":-77.035559,
+    "iso:country":"US",
+    "sg:address":"1401 Tuckerman St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 829 3623",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aRVcy29IJSgQut5jT3JJ1_38.967603_-77.035559@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb7c50fdb3bd349470e1bbbc93c39a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":370332547
+        }
+    ],
+    "wof:id":370332547,
+    "wof:lastmodified":1449030947,
+    "wof:name":"Tuckendall Inc",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-77.035559,38.967603,-77.035559,38.967603],
+  "geometry": {"coordinates":[-77.035559,38.967603],"type":"Point"}
+}

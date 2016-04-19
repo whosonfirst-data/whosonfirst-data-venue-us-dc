@@ -1,0 +1,65 @@
+{
+  "id": 370166893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.073575,38.961118,-77.073575,38.961118",
+    "geom:latitude":38.961118,
+    "geom:longitude":-77.073575,
+    "iso:country":"US",
+    "sg:address":"5402 Connecticut Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 237 1337",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53WXhbkN6KGgfWIgFaptbW_38.961118_-77.073575@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"168fce26ac17c75da4589a7ff57975c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370166893
+        }
+    ],
+    "wof:id":370166893,
+    "wof:lastmodified":1449030959,
+    "wof:name":"Cheryl Labonte",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [-77.073575,38.961118,-77.073575,38.961118],
+  "geometry": {"coordinates":[-77.073575,38.961118],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 371177799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.032125,38.952833,-77.032125,38.952833",
+    "geom:latitude":38.952833,
+    "geom:longitude":-77.032125,
+    "iso:country":"US",
+    "sg:address":"1340 Hamilton St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 576 6855",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUtHebuNav1aB6ijHxWTq_38.952833_-77.032125@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7689174a50915ebab5ce788d5fb441d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":371177799
+        }
+    ],
+    "wof:id":371177799,
+    "wof:lastmodified":1449050144,
+    "wof:name":"Hamilton Recreation Ctr",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [-77.032125,38.952833,-77.032125,38.952833],
+  "geometry": {"coordinates":[-77.032125,38.952833],"type":"Point"}
+}

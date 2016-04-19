@@ -1,0 +1,68 @@
+{
+  "id": 186004715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.076887,38.943057,-77.076887,38.943057",
+    "geom:latitude":38.943057,
+    "geom:longitude":-77.076887,
+    "iso:country":"US",
+    "sg:address":"4115 Wisconsin Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 363 7100",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37jCT09Ts1qNX97Det7g8P_38.943057_-77.076887@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2636533e35bae1e281be48a6f7619310",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869757,
+            "region_id":85688741,
+            "venue_id":186004715
+        }
+    ],
+    "wof:id":186004715,
+    "wof:lastmodified":1449051365,
+    "wof:name":"Crescent Electrical Heating",
+    "wof:parent_id":85869757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [-77.076887,38.943057,-77.076887,38.943057],
+  "geometry": {"coordinates":[-77.076887,38.943057],"type":"Point"}
+}

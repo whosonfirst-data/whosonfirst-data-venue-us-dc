@@ -1,0 +1,76 @@
+{
+  "id": 337361925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.076638,38.967611,-77.076638,38.967611",
+    "geom:latitude":38.967611,
+    "geom:longitude":-77.076638,
+    "iso:country":"US",
+    "sg:address":"1 Chevy Chase Cir NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 363 2209",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TRHk5MPZ40BSx1XI9HKFz_38.967611_-77.076638@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be4dfaaf23116ccca0ddef0ad412784a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":337361925
+        }
+    ],
+    "wof:id":337361925,
+    "wof:lastmodified":1449027542,
+    "wof:name":"Chevy Chase Presbyterian Schl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school",
+        "church"
+    ]
+},
+  "bbox": [-77.076638,38.967611,-77.076638,38.967611],
+  "geometry": {"coordinates":[-77.076638,38.967611],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 387221851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026362,38.977894,-77.026362,38.977894",
+    "geom:latitude":38.977894,
+    "geom:longitude":-77.026362,
+    "iso:country":"US",
+    "sg:address":"7205 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 291 3232",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AylveDY2XwyPwBwjIHlAO_38.977894_-77.026362@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4841cff6b8916633e94da10f3d73192",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387221851
+        }
+    ],
+    "wof:id":387221851,
+    "wof:lastmodified":1449057785,
+    "wof:name":"New Second Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-77.026362,38.977894,-77.026362,38.977894],
+  "geometry": {"coordinates":[-77.026362,38.977894],"type":"Point"}
+}

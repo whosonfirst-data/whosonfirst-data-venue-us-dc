@@ -1,0 +1,66 @@
+{
+  "id": 353851267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.019692,38.956532,-77.019692,38.956532",
+    "geom:latitude":38.956532,
+    "geom:longitude":-77.019692,
+    "iso:country":"US",
+    "sg:address":"413 Kennedy St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 7733",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hGSb0JdrCoXcKjGxOQ3CD_38.956532_-77.019692@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6cb90fb1cfec731619bc69484e2a32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":353851267
+        }
+    ],
+    "wof:id":353851267,
+    "wof:lastmodified":1449019924,
+    "wof:name":"E & G Cleaners",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-77.019692,38.956532,-77.019692,38.956532],
+  "geometry": {"coordinates":[-77.019692,38.956532],"type":"Point"}
+}

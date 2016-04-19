@@ -1,0 +1,66 @@
+{
+  "id": 370708955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.022136,38.81951,-77.022136,38.81951",
+    "geom:latitude":38.81951,
+    "geom:longitude":-77.022136,
+    "iso:country":"US",
+    "sg:address":"5000 Overlook Ave SW",
+    "sg:city":"Bolling Afb",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 787 4250",
+    "sg:postcode":"20032",
+    "sg:province":"MD",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85805519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CSKfPjP5uqAoFmTa0hQal_38.819510_-77.022136@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6566fd29143eeb7f7426ef4740f6db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85805519,
+            "region_id":85688741,
+            "venue_id":370708955
+        }
+    ],
+    "wof:id":370708955,
+    "wof:lastmodified":1449029624,
+    "wof:name":"Peer Consultants",
+    "wof:parent_id":85805519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [-77.022136,38.81951,-77.022136,38.81951],
+  "geometry": {"coordinates":[-77.022136,38.81951],"type":"Point"}
+}

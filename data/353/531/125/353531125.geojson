@@ -1,0 +1,65 @@
+{
+  "id": 353531125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.002435,38.829954,-77.002435,38.829954",
+    "geom:latitude":38.829954,
+    "geom:longitude":-77.002435,
+    "iso:country":"US",
+    "sg:address":"4309 3rd St SE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 645 3914",
+    "sg:postcode":"20032",
+    "sg:province":"MD",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DgOWp2WjBfYwgMy75E9jO_38.829954_-77.002435@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e6d407c31a26e66f3e2eacd96651640a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353531125
+        }
+    ],
+    "wof:id":353531125,
+    "wof:lastmodified":1449018854,
+    "wof:name":"Atlantic Terrace Early Chldhd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [-77.002435,38.829954,-77.002435,38.829954],
+  "geometry": {"coordinates":[-77.002435,38.829954],"type":"Point"}
+}

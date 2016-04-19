@@ -1,0 +1,66 @@
+{
+  "id": 387518345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.915304,38.88462,-76.915304,38.88462",
+    "geom:latitude":38.88462,
+    "geom:longitude":-76.915304,
+    "iso:country":"US",
+    "sg:address":"408 Mentor Ave",
+    "sg:city":"Capitol Heights",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 568 9461",
+    "sg:postcode":"20743",
+    "sg:province":"MD",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85838231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cm2tz2Qww2PbYJHXfUCQX_38.884620_-76.915304@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb2d6d92d5462193a15924e18894b0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":387518345
+        }
+    ],
+    "wof:id":387518345,
+    "wof:lastmodified":1449058259,
+    "wof:name":"Veterans Of Foreign Wars #1627",
+    "wof:parent_id":85838231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [-76.915304,38.88462,-76.915304,38.88462],
+  "geometry": {"coordinates":[-76.915304,38.88462],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 387205595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.025497,38.941798,-77.025497,38.941798",
+    "geom:latitude":38.941798,
+    "geom:longitude":-77.025497,
+    "iso:country":"US",
+    "sg:address":"824 Upshur St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 545 0810",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gznvNrzp5TFPKtXAW6Y1I_38.941798_-77.025497@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a32950e0a6dd75c22fc0c0a12dfc65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":387205595
+        }
+    ],
+    "wof:id":387205595,
+    "wof:lastmodified":1449058407,
+    "wof:name":"Superior Business Svc",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [-77.025497,38.941798,-77.025497,38.941798],
+  "geometry": {"coordinates":[-77.025497,38.941798],"type":"Point"}
+}

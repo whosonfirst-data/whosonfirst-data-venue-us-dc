@@ -1,0 +1,65 @@
+{
+  "id": 387050873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.077142,38.96102,-77.077142,38.96102",
+    "geom:latitude":38.96102,
+    "geom:longitude":-77.077142,
+    "iso:country":"US",
+    "sg:address":"5324 39th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 7073",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i8nRvEN6aXW2li4OwgSwf_38.961020_-77.077142@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f9f75029e47c43eb73b34c78eac0e2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387050873
+        }
+    ],
+    "wof:id":387050873,
+    "wof:lastmodified":1449058206,
+    "wof:name":"Christine W Lynn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "worker"
+    ]
+},
+  "bbox": [-77.077142,38.96102,-77.077142,38.96102],
+  "geometry": {"coordinates":[-77.077142,38.96102],"type":"Point"}
+}

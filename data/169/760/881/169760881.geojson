@@ -1,0 +1,61 @@
+{
+  "id": 169760881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.036497,38.948691,-77.036497,38.948691",
+    "geom:latitude":38.948691,
+    "geom:longitude":-77.036497,
+    "iso:country":"US",
+    "sg:address":"4834 16th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 4252",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85812945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xSgq7rjx99EIlqZw1euZW_38.948691_-77.036497@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4409d345e0810f06adf97708873fce6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85812945,
+            "region_id":85688741,
+            "venue_id":169760881
+        }
+    ],
+    "wof:id":169760881,
+    "wof:lastmodified":1449035839,
+    "wof:name":"Catholic Foreign Mission Socie",
+    "wof:parent_id":85812945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.036497,38.948691,-77.036497,38.948691],
+  "geometry": {"coordinates":[-77.036497,38.948691],"type":"Point"}
+}

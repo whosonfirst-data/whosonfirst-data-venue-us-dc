@@ -1,0 +1,61 @@
+{
+  "id": 370741569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027697,38.965849,-77.027697,38.965849",
+    "geom:latitude":38.965849,
+    "geom:longitude":-77.027697,
+    "iso:country":"US",
+    "sg:address":"6224 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 291 0788",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rkc5WAG4k8EKqswS0d2KJ_38.965849_-77.027697@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bf34bcb43e7ce956be25134a7e20da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":370741569
+        }
+    ],
+    "wof:id":370741569,
+    "wof:lastmodified":1449029261,
+    "wof:name":"Braid It Up",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.027697,38.965849,-77.027697,38.965849],
+  "geometry": {"coordinates":[-77.027697,38.965849],"type":"Point"}
+}

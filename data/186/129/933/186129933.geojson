@@ -1,0 +1,60 @@
+{
+  "id": 186129933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.038422,38.983319,-77.038422,38.983319",
+    "geom:latitude":38.983319,
+    "geom:longitude":-77.038422,
+    "iso:country":"US",
+    "sg:address":"1600 Jonquil St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 723 5455",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76358e3DV5tu4mb7UhgUFO_38.983319_-77.038422@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ae8c9c9b68887eb241f9de8e947004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":186129933
+        }
+    ],
+    "wof:id":186129933,
+    "wof:lastmodified":1449052492,
+    "wof:name":"Ostt-Olameinu",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.038422,38.983319,-77.038422,38.983319],
+  "geometry": {"coordinates":[-77.038422,38.983319],"type":"Point"}
+}

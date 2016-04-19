@@ -1,0 +1,65 @@
+{
+  "id": 370461039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.03615,38.987448,-77.03615,38.987448",
+    "geom:latitude":38.987448,
+    "geom:longitude":-77.03615,
+    "iso:country":"US",
+    "sg:address":"1413 Leegate Rd NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 7629",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06m3hb8Tn1hOAsdWakVqBb_38.987448_-77.036150@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6762c4f969883bc5f5d8bc34078da348",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370461039
+        }
+    ],
+    "wof:id":370461039,
+    "wof:lastmodified":1449030362,
+    "wof:name":"Calhoun Noah R",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.03615,38.987448,-77.03615,38.987448],
+  "geometry": {"coordinates":[-77.03615,38.987448],"type":"Point"}
+}

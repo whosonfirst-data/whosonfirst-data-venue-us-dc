@@ -1,0 +1,73 @@
+{
+  "id": 185812491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027913,38.985426,-77.027913,38.985426",
+    "geom:latitude":38.985426,
+    "geom:longitude":-77.027913,
+    "iso:country":"US",
+    "sg:address":"7820 Eastern Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 829 2200",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:brand_id":420574083,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45LWxJpTXRcEaE03clQsDi_38.985426_-77.027913@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4ee732e2e3efbab1e01828cbdd20568",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":185812491
+        }
+    ],
+    "wof:id":185812491,
+    "wof:lastmodified":1457208444,
+    "wof:name":"Check 'n Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -77.027913,
+    38.985426,
+    -77.027913,
+    38.985426
+],
+  "geometry": {"coordinates":[-77.027913,38.985426],"type":"Point"}
+}

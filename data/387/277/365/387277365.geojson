@@ -1,0 +1,66 @@
+{
+  "id": 387277365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.075936,38.932252,-77.075936,38.932252",
+    "geom:latitude":38.932252,
+    "geom:longitude":-77.075936,
+    "iso:country":"US",
+    "sg:address":"3821 Woodley Rd NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 362 1809",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "newsletter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85809813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NXNWGLkCnQr3hGxZUAaPh_38.932252_-77.075936@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"756be861d8715f23eee519218d708508",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85809813,
+            "region_id":85688741,
+            "venue_id":387277365
+        }
+    ],
+    "wof:id":387277365,
+    "wof:lastmodified":1449056540,
+    "wof:name":"Cancer Letter",
+    "wof:parent_id":85809813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newsletter"
+    ]
+},
+  "bbox": [-77.075936,38.932252,-77.075936,38.932252],
+  "geometry": {"coordinates":[-77.075936,38.932252],"type":"Point"}
+}

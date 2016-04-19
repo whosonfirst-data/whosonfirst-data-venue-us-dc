@@ -1,0 +1,65 @@
+{
+  "id": 386995043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.01902,38.975329,-77.01902,38.975329",
+    "geom:latitude":38.975329,
+    "geom:longitude":-77.01902,
+    "iso:country":"US",
+    "sg:address":"7053 Blair Rd NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 829 2302",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wA8TLfR59VRwPExcNyPZZ_38.975329_-77.019020@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"84d514fe52ba8078048a5b6b9a6c8446",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":386995043
+        }
+    ],
+    "wof:id":386995043,
+    "wof:lastmodified":1449028938,
+    "wof:name":"Nunez Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter"
+    ]
+},
+  "bbox": [-77.01902,38.975329,-77.01902,38.975329],
+  "geometry": {"coordinates":[-77.01902,38.975329],"type":"Point"}
+}

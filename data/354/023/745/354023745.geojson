@@ -1,0 +1,67 @@
+{
+  "id": 354023745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.083779,38.948806,-77.083779,38.948806",
+    "geom:latitude":38.948806,
+    "geom:longitude":-77.083779,
+    "iso:country":"US",
+    "sg:address":"4201 Butterworth Pl NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 362 2341",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gDWDriXEi4k9SwjSUL0Cy_38.948806_-77.083779@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80859a9e2cad51be7e0b9806ff3c5223",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354023745
+        }
+    ],
+    "wof:id":354023745,
+    "wof:lastmodified":1449067507,
+    "wof:name":"Cargakos",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [-77.083779,38.948806,-77.083779,38.948806],
+  "geometry": {"coordinates":[-77.083779,38.948806],"type":"Point"}
+}

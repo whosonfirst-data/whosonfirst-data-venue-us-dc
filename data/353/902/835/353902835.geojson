@@ -1,0 +1,61 @@
+{
+  "id": 353902835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027273,38.938483,-77.027273,38.938483",
+    "geom:latitude":38.938483,
+    "geom:longitude":-77.027273,
+    "iso:country":"US",
+    "sg:address":"3818 10th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 7340",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LPBPe4EuRcXVQIlDxnGdr_38.938483_-77.027273@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5364c888d566f23389fe3aa4a1d76df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":353902835
+        }
+    ],
+    "wof:id":353902835,
+    "wof:lastmodified":1449020138,
+    "wof:name":"Disneyland Daycare Ctr",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.027273,38.938483,-77.027273,38.938483],
+  "geometry": {"coordinates":[-77.027273,38.938483],"type":"Point"}
+}

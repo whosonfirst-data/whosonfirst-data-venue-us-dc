@@ -1,0 +1,71 @@
+{
+  "id": 354220889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.083922,38.962095,-77.083922,38.962095",
+    "geom:latitude":38.962095,
+    "geom:longitude":-77.083922,
+    "iso:country":"US",
+    "sg:address":"5440 Western Ave",
+    "sg:city":"Chevy Chase",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 652 7171",
+    "sg:postcode":"20815",
+    "sg:province":"MD",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IYmesQCQi1SEOEduE4fTP_38.962095_-77.083922@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ffae4440289650f6c0cd28903ec7922",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354220889
+        }
+    ],
+    "wof:id":354220889,
+    "wof:lastmodified":1449067610,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [-77.083922,38.962095,-77.083922,38.962095],
+  "geometry": {"coordinates":[-77.083922,38.962095],"type":"Point"}
+}

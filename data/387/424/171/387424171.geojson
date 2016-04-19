@@ -1,0 +1,66 @@
+{
+  "id": 387424171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.030748,38.966205,-77.030748,38.966205",
+    "geom:latitude":38.966205,
+    "geom:longitude":-77.030748,
+    "iso:country":"US",
+    "sg:address":"1373 Sheridan St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 4464",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUvu4hyoVKQLNCRbZjWs5_38.966205_-77.030748@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb53105e26289cdad2be165498f062f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":387424171
+        }
+    ],
+    "wof:id":387424171,
+    "wof:lastmodified":1449059685,
+    "wof:name":"Discount Security Enforcement",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-77.030748,38.966205,-77.030748,38.966205],
+  "geometry": {"coordinates":[-77.030748,38.966205],"type":"Point"}
+}

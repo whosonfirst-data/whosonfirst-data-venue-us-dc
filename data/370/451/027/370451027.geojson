@@ -1,0 +1,68 @@
+{
+  "id": 370451027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.079657,38.947983,-77.079657,38.947983",
+    "geom:latitude":38.947983,
+    "geom:longitude":-77.079657,
+    "iso:country":"US",
+    "sg:address":"4011 Albemarle St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 966 7664",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85851929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71twGOSbIsjt9Ih2T9QC6Q_38.947983_-77.079657@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c534c5a982ff2694036224f8102396cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85851929,
+            "region_id":85688741,
+            "venue_id":370451027
+        }
+    ],
+    "wof:id":370451027,
+    "wof:lastmodified":1449030564,
+    "wof:name":"Gates & Fox",
+    "wof:parent_id":85851929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-77.079657,38.947983,-77.079657,38.947983],
+  "geometry": {"coordinates":[-77.079657,38.947983],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 354417905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026503,38.983789,-77.026503,38.983789",
+    "geom:latitude":38.983789,
+    "geom:longitude":-77.026503,
+    "iso:country":"US",
+    "sg:address":"7705 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 9797",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GsyvO06DOpemU4RvQ6Zhx_38.983789_-77.026503@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c780434ba971097861c360fa053c689",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354417905
+        }
+    ],
+    "wof:id":354417905,
+    "wof:lastmodified":1449066617,
+    "wof:name":"Mess Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [-77.026503,38.983789,-77.026503,38.983789],
+  "geometry": {"coordinates":[-77.026503,38.983789],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 371194553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.083692,38.95339,-77.083692,38.95339",
+    "geom:latitude":38.95339,
+    "geom:longitude":-77.083692,
+    "iso:country":"US",
+    "sg:address":"4207 Ellicott St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 0065",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85844293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m497oBCZGfzJ2XgT4rNqp_38.953390_-77.083692@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e14ede8f0b66a57c0764f45e0cbffe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85844293,
+            "region_id":85688741,
+            "venue_id":371194553
+        }
+    ],
+    "wof:id":371194553,
+    "wof:lastmodified":1449049977,
+    "wof:name":"E S Mc Whorter",
+    "wof:parent_id":85844293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [-77.083692,38.95339,-77.083692,38.95339],
+  "geometry": {"coordinates":[-77.083692,38.95339],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 370822615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.079547,38.92976,-77.079547,38.92976",
+    "geom:latitude":38.92976,
+    "geom:longitude":-77.079547,
+    "iso:country":"US",
+    "sg:address":"4100 Cathedral Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 333 4777",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eSLbSoNzRgrcpsgg1vMKa_38.929760_-77.079547@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c479e0e34c95ff9aa7fad946b4ce5234",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370822615
+        }
+    ],
+    "wof:id":370822615,
+    "wof:lastmodified":1449032367,
+    "wof:name":"Calvin French",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [-77.079547,38.92976,-77.079547,38.92976],
+  "geometry": {"coordinates":[-77.079547,38.92976],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 387003651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.083332,38.932429,-77.083332,38.932429",
+    "geom:latitude":38.932429,
+    "geom:longitude":-77.083332,
+    "iso:country":"US",
+    "sg:address":"3259 Sutton Pl NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 237 8311",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A7gl76R6OleXPIvD3aFgO_38.932429_-77.083332@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95b0862f7e91da89ced843fef1f7e7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387003651
+        }
+    ],
+    "wof:id":387003651,
+    "wof:lastmodified":1449059620,
+    "wof:name":"Homerun Baseball Camp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.083332,38.932429,-77.083332,38.932429],
+  "geometry": {"coordinates":[-77.083332,38.932429],"type":"Point"}
+}

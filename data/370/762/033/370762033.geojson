@@ -1,0 +1,68 @@
+{
+  "id": 370762033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.080202,38.966386,-77.080202,38.966386",
+    "geom:latitude":38.966386,
+    "geom:longitude":-77.080202,
+    "iso:country":"US",
+    "sg:address":"5625 Grove St",
+    "sg:city":"Chevy Chase",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 215 7500",
+    "sg:postcode":"20815",
+    "sg:province":"MD",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85810805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v4GgmrtnjfsGnQsvWsK2w_38.966386_-77.080202@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5c32e6f3d8aef244f0e0cea710c93f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85810805,
+            "region_id":85688741,
+            "venue_id":370762033
+        }
+    ],
+    "wof:id":370762033,
+    "wof:lastmodified":1449031475,
+    "wof:name":"Adams General Contractors Inc",
+    "wof:parent_id":85810805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-77.080202,38.966386,-77.080202,38.966386],
+  "geometry": {"coordinates":[-77.080202,38.966386],"type":"Point"}
+}

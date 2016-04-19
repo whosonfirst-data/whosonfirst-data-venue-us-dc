@@ -1,0 +1,66 @@
+{
+  "id": 387278291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.073289,38.935991,-77.073289,38.935991",
+    "geom:latitude":38.935991,
+    "geom:longitude":-77.073289,
+    "iso:country":"US",
+    "sg:address":"3412 Idaho Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 7197",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fcELLKXM6mm3BsUq902P6_38.935991_-77.073289@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38a31d6085329c195de961f1dd2be4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869757,
+            "region_id":85688741,
+            "venue_id":387278291
+        }
+    ],
+    "wof:id":387278291,
+    "wof:lastmodified":1449058211,
+    "wof:name":"Dalton Brody LTD",
+    "wof:parent_id":85869757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-77.073289,38.935991,-77.073289,38.935991],
+  "geometry": {"coordinates":[-77.073289,38.935991],"type":"Point"}
+}

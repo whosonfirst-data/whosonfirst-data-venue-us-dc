@@ -1,0 +1,67 @@
+{
+  "id": 186139877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.073309,38.961017,-77.073309,38.961017",
+    "geom:latitude":38.961017,
+    "geom:longitude":-77.073309,
+    "iso:country":"US",
+    "sg:address":"5415 Connecticut Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 364 5091",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G7v7Zw7BfYNGTbovyhQqj_38.961017_-77.073309@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ff254ea754cbdce8a154dd2c61f7212",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":186139877
+        }
+    ],
+    "wof:id":186139877,
+    "wof:lastmodified":1449050496,
+    "wof:name":"Philoxenia International Trvl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [-77.073309,38.961017,-77.073309,38.961017],
+  "geometry": {"coordinates":[-77.073309,38.961017],"type":"Point"}
+}

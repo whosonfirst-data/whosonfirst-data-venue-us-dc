@@ -1,0 +1,68 @@
+{
+  "id": 370557551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.028428,38.940727,-77.028428,38.940727",
+    "geom:latitude":38.940727,
+    "geom:longitude":-77.028428,
+    "iso:country":"US",
+    "sg:address":"1246 Taylor St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 7900",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "technical",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5szIrn1KZaihoPN6D2Vxu1_38.940727_-77.028428@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"064b80b36dd2236d2eee49fc6ff7adfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":370557551
+        }
+    ],
+    "wof:id":370557551,
+    "wof:lastmodified":1449031508,
+    "wof:name":"High Road School Of Washington",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "trade"
+    ]
+},
+  "bbox": [-77.028428,38.940727,-77.028428,38.940727],
+  "geometry": {"coordinates":[-77.028428,38.940727],"type":"Point"}
+}

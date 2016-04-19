@@ -1,0 +1,65 @@
+{
+  "id": 353617303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.05349,38.971027,-77.05349,38.971027",
+    "geom:latitude":38.971027,
+    "geom:longitude":-77.05349,
+    "iso:country":"US",
+    "sg:address":"6200 Oregon Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 541 0172",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z2mvt9MiqP29VWMLb7VfQ_38.971027_-77.053490@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a279ba2611aed4ccd60a5f93f840415b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353617303
+        }
+    ],
+    "wof:id":353617303,
+    "wof:lastmodified":1449018327,
+    "wof:name":"William Bauer Ltc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.05349,38.971027,-77.05349,38.971027],
+  "geometry": {"coordinates":[-77.05349,38.971027],"type":"Point"}
+}

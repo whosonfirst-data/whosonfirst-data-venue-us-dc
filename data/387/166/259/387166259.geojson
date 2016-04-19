@@ -1,0 +1,61 @@
+{
+  "id": 387166259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.004189,38.842272,-77.004189,38.842272",
+    "geom:latitude":38.842272,
+    "geom:longitude":-77.004189,
+    "iso:country":"US",
+    "sg:address":"3320 Brothers Pl SE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 561 0396",
+    "sg:postcode":"20032",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85812073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cCJibzeD1ZSBWY10olIDP_38.842272_-77.004189@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c7c6fcaf101c80a655d48b1f9c22010",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85812073,
+            "region_id":85688741,
+            "venue_id":387166259
+        }
+    ],
+    "wof:id":387166259,
+    "wof:lastmodified":1449058234,
+    "wof:name":"My 3 Sons Unisex Shop",
+    "wof:parent_id":85812073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.004189,38.842272,-77.004189,38.842272],
+  "geometry": {"coordinates":[-77.004189,38.842272],"type":"Point"}
+}

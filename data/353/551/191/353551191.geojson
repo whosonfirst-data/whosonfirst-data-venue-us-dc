@@ -1,0 +1,67 @@
+{
+  "id": 353551191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.091457,38.942009,-77.091457,38.942009",
+    "geom:latitude":38.942009,
+    "geom:longitude":-77.091457,
+    "iso:country":"US",
+    "sg:address":"4643 Massachusetts Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 2934",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dO4B2C0JPx47qjF1GDFPW_38.942009_-77.091457@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e713615d11a415899af3bbac2d0a87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353551191
+        }
+    ],
+    "wof:id":353551191,
+    "wof:lastmodified":1449018768,
+    "wof:name":"Mahmoud Mourad MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-77.091457,38.942009,-77.091457,38.942009],
+  "geometry": {"coordinates":[-77.091457,38.942009],"type":"Point"}
+}

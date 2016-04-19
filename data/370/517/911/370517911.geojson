@@ -1,0 +1,66 @@
+{
+  "id": 370517911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.032654,38.93855,-77.032654,38.93855",
+    "geom:latitude":38.93855,
+    "geom:longitude":-77.032654,
+    "iso:country":"US",
+    "sg:address":"3817 14th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 545 9558",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IP6T0NDzjZXJL099b7E4W_38.938550_-77.032654@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7221b1d95ade2b4bdc417b8a0578934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":370517911
+        }
+    ],
+    "wof:id":370517911,
+    "wof:lastmodified":1449031007,
+    "wof:name":"Kwame Brown For City Council",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.032654,38.93855,-77.032654,38.93855],
+  "geometry": {"coordinates":[-77.032654,38.93855],"type":"Point"}
+}

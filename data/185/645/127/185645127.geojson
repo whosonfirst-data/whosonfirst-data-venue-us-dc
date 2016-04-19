@@ -1,0 +1,68 @@
+{
+  "id": 185645127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.058644,38.967174,-77.058644,38.967174",
+    "geom:latitude":38.967174,
+    "geom:longitude":-77.058644,
+    "iso:country":"US",
+    "sg:address":"3048 Oliver St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 9292",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.schmittleslie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m7dZgPvxa9nNrTL5U5K2b_38.967174_-77.058644@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"915cc9530ccea9fa942b97480d178027",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":185645127
+        }
+    ],
+    "wof:id":185645127,
+    "wof:lastmodified":1449006778,
+    "wof:name":"Schmitt & Leslie Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-77.058644,38.967174,-77.058644,38.967174],
+  "geometry": {"coordinates":[-77.058644,38.967174],"type":"Point"}
+}

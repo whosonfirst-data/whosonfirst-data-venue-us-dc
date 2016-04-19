@@ -1,0 +1,66 @@
+{
+  "id": 370727097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.965948,38.941133,-76.965948,38.941133",
+    "geom:latitude":38.941133,
+    "geom:longitude":-76.965948,
+    "iso:country":"US",
+    "sg:address":"4103 30th St",
+    "sg:city":"Mount Rainier",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 864 9536",
+    "sg:postcode":"20712",
+    "sg:province":"MD",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85858903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HfJxLuvJcpuvk0XNrMXgd_38.941133_-76.965948@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e6ecca9390ac25feb5b89dfffeaa578",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
+            "venue_id":370727097
+        }
+    ],
+    "wof:id":370727097,
+    "wof:lastmodified":1449029598,
+    "wof:name":"Mark Grisar Builder",
+    "wof:parent_id":85858903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [-76.965948,38.941133,-76.965948,38.941133],
+  "geometry": {"coordinates":[-76.965948,38.941133],"type":"Point"}
+}

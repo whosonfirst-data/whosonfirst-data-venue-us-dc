@@ -1,0 +1,65 @@
+{
+  "id": 353640923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.090611,38.946286,-77.090611,38.946286",
+    "geom:latitude":38.946286,
+    "geom:longitude":-77.090611,
+    "iso:country":"US",
+    "sg:address":"4417 46th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 895 2780",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53xb2dKOTGEYbxIdWeFwRa_38.946286_-77.090611@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00714635b0c0187440c06bfdf3ed4dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353640923
+        }
+    ],
+    "wof:id":353640923,
+    "wof:lastmodified":1449019369,
+    "wof:name":"Barbara W Franklin",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [-77.090611,38.946286,-77.090611,38.946286],
+  "geometry": {"coordinates":[-77.090611,38.946286],"type":"Point"}
+}

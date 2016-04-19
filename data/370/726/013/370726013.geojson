@@ -1,0 +1,68 @@
+{
+  "id": 370726013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.024205,38.964953,-77.024205,38.964953",
+    "geom:latitude":38.964953,
+    "geom:longitude":-77.024205,
+    "iso:country":"US",
+    "sg:address":"6211 8th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 1440",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QkvqetNq0dya187JHeRRs_38.964953_-77.024205@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d5e1a852ec368eb9dda9497dd3c03e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":370726013
+        }
+    ],
+    "wof:id":370726013,
+    "wof:lastmodified":1449031397,
+    "wof:name":"Option 1 Financial",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [-77.024205,38.964953,-77.024205,38.964953],
+  "geometry": {"coordinates":[-77.024205,38.964953],"type":"Point"}
+}

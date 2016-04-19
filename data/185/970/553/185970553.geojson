@@ -1,0 +1,61 @@
+{
+  "id": 185970553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.954902,38.856044,-76.954902,38.856044",
+    "geom:latitude":38.856044,
+    "geom:longitude":-76.954902,
+    "iso:country":"US",
+    "sg:address":"2427 Fairhill Dr",
+    "sg:city":"Suitland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 423 8609",
+    "sg:postcode":"20746",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85825385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hzSgsvmuMNRQCOb8e6pMk_38.856044_-76.954902@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d41ea94f1e1ecd992a69b3a46a3e2832",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85825385,
+            "region_id":85688741,
+            "venue_id":185970553
+        }
+    ],
+    "wof:id":185970553,
+    "wof:lastmodified":1449008160,
+    "wof:name":"Pearl E Neverson",
+    "wof:parent_id":85825385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-76.954902,38.856044,-76.954902,38.856044],
+  "geometry": {"coordinates":[-76.954902,38.856044],"type":"Point"}
+}

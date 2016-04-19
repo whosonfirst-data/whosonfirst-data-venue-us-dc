@@ -1,0 +1,61 @@
+{
+  "id": 370644645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.90314,38.883173,-76.90314,38.883173",
+    "geom:latitude":38.883173,
+    "geom:longitude":-76.90314,
+    "iso:country":"US",
+    "sg:address":"505 Rollins Ave",
+    "sg:city":"Capitol Heights",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 440 5343",
+    "sg:postcode":"20743",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85838231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wNkGGzrNPpxbwc2BQPO7o_38.883173_-76.903140@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9b7f66ad443e4fca7986993f037097cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":370644645
+        }
+    ],
+    "wof:id":370644645,
+    "wof:lastmodified":1449031007,
+    "wof:name":"Andersn-Associates Trnspt Mgmt",
+    "wof:parent_id":85838231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-76.90314,38.883173,-76.90314,38.883173],
+  "geometry": {"coordinates":[-76.90314,38.883173],"type":"Point"}
+}

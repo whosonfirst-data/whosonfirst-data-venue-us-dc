@@ -1,0 +1,61 @@
+{
+  "id": 371139483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026742,38.98781,-77.026742,38.98781",
+    "geom:latitude":38.98781,
+    "geom:longitude":-77.026742,
+    "iso:country":"US",
+    "sg:address":"8030 Georgia Ave",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 495 7380",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MHFKu3k0clzKQmbzk4P7Q_38.987810_-77.026742@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"889410ebf7cabb6a82bc9133d496801e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":371139483
+        }
+    ],
+    "wof:id":371139483,
+    "wof:lastmodified":1449049127,
+    "wof:name":"Dorfmann Richard A",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.026742,38.98781,-77.026742,38.98781],
+  "geometry": {"coordinates":[-77.026742,38.98781],"type":"Point"}
+}

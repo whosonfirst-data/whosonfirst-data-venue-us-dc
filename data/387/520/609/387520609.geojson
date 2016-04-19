@@ -1,0 +1,65 @@
+{
+  "id": 387520609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.018029,38.969923,-77.018029,38.969923",
+    "geom:latitude":38.969923,
+    "geom:longitude":-77.018029,
+    "iso:country":"US",
+    "sg:address":"301 Van Buren St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 576 8660",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vke76uB7PZKtSpPxQa96G_38.969923_-77.018029@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"958e899ac199957f0974f4f3dcb37428",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387520609
+        }
+    ],
+    "wof:id":387520609,
+    "wof:lastmodified":1449057353,
+    "wof:name":"Takoma Recreation Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [-77.018029,38.969923,-77.018029,38.969923],
+  "geometry": {"coordinates":[-77.018029,38.969923],"type":"Point"}
+}

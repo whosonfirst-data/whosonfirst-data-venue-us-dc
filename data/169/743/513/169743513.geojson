@@ -1,0 +1,66 @@
+{
+  "id": 169743513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.034592,38.947104,-77.034592,38.947104",
+    "geom:latitude":38.947104,
+    "geom:longitude":-77.034592,
+    "iso:country":"US",
+    "sg:address":"4608 15th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 6854",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FvT0KJjR6IdGQrgnoHu0U_38.947104_-77.034592@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f1a232b3600dd90932cfd1fac8b5206",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":169743513
+        }
+    ],
+    "wof:id":169743513,
+    "wof:lastmodified":1449035947,
+    "wof:name":"Santech Worldwide Inc",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter"
+    ]
+},
+  "bbox": [-77.034592,38.947104,-77.034592,38.947104],
+  "geometry": {"coordinates":[-77.034592,38.947104],"type":"Point"}
+}

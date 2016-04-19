@@ -1,0 +1,67 @@
+{
+  "id": 387227771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.003757,38.958827,-77.003757,38.958827",
+    "geom:latitude":38.958827,
+    "geom:longitude":-77.003757,
+    "iso:country":"US",
+    "sg:address":"5650 2nd St NE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 269 3977",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "graphic",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XpkL7BGUkhJUfnnuP8c1Z_38.958827_-77.003757@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7795c59d6a8396b548a5e2c5c08a6f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387227771
+        }
+    ],
+    "wof:id":387227771,
+    "wof:lastmodified":1449056940,
+    "wof:name":"NMGDM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic",
+        "designer"
+    ]
+},
+  "bbox": [-77.003757,38.958827,-77.003757,38.958827],
+  "geometry": {"coordinates":[-77.003757,38.958827],"type":"Point"}
+}

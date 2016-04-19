@@ -1,0 +1,65 @@
+{
+  "id": 354024697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.072078,38.959039,-77.072078,38.959039",
+    "geom:latitude":38.959039,
+    "geom:longitude":-77.072078,
+    "iso:country":"US",
+    "sg:address":"5225 Connecticut Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 2205",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7beH4gcDz93HLKMGBnokoD_38.959039_-77.072078@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"010325fb2edd89e3567f357fcf4c8e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354024697
+        }
+    ],
+    "wof:id":354024697,
+    "wof:lastmodified":1449066732,
+    "wof:name":"Lamis Jarrar PHD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [-77.072078,38.959039,-77.072078,38.959039],
+  "geometry": {"coordinates":[-77.072078,38.959039],"type":"Point"}
+}

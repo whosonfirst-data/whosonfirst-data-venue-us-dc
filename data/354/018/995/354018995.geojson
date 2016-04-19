@@ -1,0 +1,66 @@
+{
+  "id": 354018995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.964387,38.938,-76.964387,38.938",
+    "geom:latitude":38.938,
+    "geom:longitude":-76.964387,
+    "iso:country":"US",
+    "sg:address":"3811 31st St",
+    "sg:city":"Mt Rainier",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 864 3443",
+    "sg:postcode":"20712",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85858903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CcCmV8WMQjdWYfxqhVKIj_38.938000_-76.964387@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ac2d9cf22b571900a747aff49ed6969c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85858903,
+            "region_id":85688741,
+            "venue_id":354018995
+        }
+    ],
+    "wof:id":354018995,
+    "wof:lastmodified":1449066777,
+    "wof:name":"National Resource Ctr",
+    "wof:parent_id":85858903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-76.964387,38.938,-76.964387,38.938],
+  "geometry": {"coordinates":[-76.964387,38.938],"type":"Point"}
+}

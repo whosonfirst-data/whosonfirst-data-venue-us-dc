@@ -1,0 +1,66 @@
+{
+  "id": 387047199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.918949,38.881925,-76.918949,38.881925",
+    "geom:latitude":38.881925,
+    "geom:longitude":-76.918949,
+    "iso:country":"US",
+    "sg:address":"529 Drum Ave",
+    "sg:city":"Capitol Heights",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 967 1960",
+    "sg:postcode":"20743",
+    "sg:province":"MD",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85838231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mr7PSokzPXuCErd6jK983_38.881925_-76.918949@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f0b5a592f2e81bf8635d5b519d01c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":387047199
+        }
+    ],
+    "wof:id":387047199,
+    "wof:lastmodified":1449058563,
+    "wof:name":"Caring & Carrying Corp",
+    "wof:parent_id":85838231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-76.918949,38.881925,-76.918949,38.881925],
+  "geometry": {"coordinates":[-76.918949,38.881925],"type":"Point"}
+}

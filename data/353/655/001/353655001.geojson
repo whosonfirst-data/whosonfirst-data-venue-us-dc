@@ -1,0 +1,68 @@
+{
+  "id": 353655001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.909063,38.875481,-76.909063,38.875481",
+    "geom:latitude":38.875481,
+    "geom:longitude":-76.909063,
+    "iso:country":"US",
+    "sg:address":"5612 Malvern Way",
+    "sg:city":"Capitol Heights",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 568 8391",
+    "sg:postcode":"20743",
+    "sg:province":"MD",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85838231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPSILSVyTBv34dkzNnFko_38.875481_-76.909063@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a8217a9af19dd4f7832fd67be90417a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":353655001
+        }
+    ],
+    "wof:id":353655001,
+    "wof:lastmodified":1449019724,
+    "wof:name":"I Bet I Have Your Name",
+    "wof:parent_id":85838231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [-76.909063,38.875481,-76.909063,38.875481],
+  "geometry": {"coordinates":[-76.909063,38.875481],"type":"Point"}
+}

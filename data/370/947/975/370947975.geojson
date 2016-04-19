@@ -1,0 +1,69 @@
+{
+  "id": 370947975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.086268,38.958304,-77.086268,38.958304",
+    "geom:latitude":38.958304,
+    "geom:longitude":-77.086268,
+    "iso:country":"US",
+    "sg:address":"5236 44th St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 537 0060",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3h6O6dUtPipveTTehDS6_38.958304_-77.086268@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e63d3c554c2391af255000d7e62d2ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370947975
+        }
+    ],
+    "wof:id":370947975,
+    "wof:lastmodified":1449031543,
+    "wof:name":"Grossmueller's Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [-77.086268,38.958304,-77.086268,38.958304],
+  "geometry": {"coordinates":[-77.086268,38.958304],"type":"Point"}
+}

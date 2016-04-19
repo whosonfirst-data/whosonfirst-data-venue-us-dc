@@ -1,0 +1,67 @@
+{
+  "id": 370455715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.007525,38.967265,-77.007525,38.967265",
+    "geom:latitude":38.967265,
+    "geom:longitude":-77.007525,
+    "iso:country":"US",
+    "sg:address":"31 Tuckerman St NE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 723 4526",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "oil",
+        "burner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28e7oF58AsxMkAQKnh8qkR_38.967265_-77.007525@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5f69772bd8273826b91e8a7ce55c2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370455715
+        }
+    ],
+    "wof:id":370455715,
+    "wof:lastmodified":1449031928,
+    "wof:name":"Day & Night Fuel Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "burner"
+    ]
+},
+  "bbox": [-77.007525,38.967265,-77.007525,38.967265],
+  "geometry": {"coordinates":[-77.007525,38.967265],"type":"Point"}
+}

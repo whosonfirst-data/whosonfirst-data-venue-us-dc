@@ -1,0 +1,68 @@
+{
+  "id": 337484685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.015425,38.94098,-77.015425,38.94098",
+    "geom:latitude":38.94098,
+    "geom:longitude":-77.015425,
+    "iso:country":"US",
+    "sg:address":"4010 3rd St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 8277",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85841475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SeC9oYy82xOwnfHkxJZkK_38.940980_-77.015425@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78c8b97ffeed7abb01d05df182d15569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85841475,
+            "region_id":85688741,
+            "venue_id":337484685
+        }
+    ],
+    "wof:id":337484685,
+    "wof:lastmodified":1449027694,
+    "wof:name":"First Time Plumbing & Heating",
+    "wof:parent_id":85841475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-77.015425,38.94098,-77.015425,38.94098],
+  "geometry": {"coordinates":[-77.015425,38.94098],"type":"Point"}
+}

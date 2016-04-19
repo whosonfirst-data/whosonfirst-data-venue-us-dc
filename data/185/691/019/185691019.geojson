@@ -1,0 +1,66 @@
+{
+  "id": 185691019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.067592,38.936156,-77.067592,38.936156",
+    "geom:latitude":38.936156,
+    "geom:longitude":-77.067592,
+    "iso:country":"US",
+    "sg:address":"3408 34th Pl NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 6262",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "multimedia"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14B2Om3zXZZpmDHyZWvWlX_38.936156_-77.067592@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6840a1a3468695c4d0ea8e89cf72c113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869757,
+            "region_id":85688741,
+            "venue_id":185691019
+        }
+    ],
+    "wof:id":185691019,
+    "wof:lastmodified":1449006737,
+    "wof:name":"Markman Media",
+    "wof:parent_id":85869757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "multimedia"
+    ]
+},
+  "bbox": [-77.067592,38.936156,-77.067592,38.936156],
+  "geometry": {"coordinates":[-77.067592,38.936156],"type":"Point"}
+}

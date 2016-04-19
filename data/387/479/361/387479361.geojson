@@ -1,0 +1,66 @@
+{
+  "id": 387479361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027024,38.972353,-77.027024,38.972353",
+    "geom:latitude":38.972353,
+    "geom:longitude":-77.027024,
+    "iso:country":"US",
+    "sg:address":"6701 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 6701",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "accountant"
+    ],
+    "sg:website":"www.fmrsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lUheN4jipOvORYuF7wEyJ_38.972353_-77.027024@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"679e8a7023bb1fe305e5932434e3d848",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387479361
+        }
+    ],
+    "wof:id":387479361,
+    "wof:lastmodified":1449058712,
+    "wof:name":"Financial Management & Report",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [-77.027024,38.972353,-77.027024,38.972353],
+  "geometry": {"coordinates":[-77.027024,38.972353],"type":"Point"}
+}

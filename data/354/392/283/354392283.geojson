@@ -1,0 +1,66 @@
+{
+  "id": 354392283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.029609,38.986903,-77.029609,38.986903",
+    "geom:latitude":38.986903,
+    "geom:longitude":-77.029609,
+    "iso:country":"US",
+    "sg:address":"7901 Eastern Ave",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 587 5596",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:brand_id":420573767,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l10q1sGPgfJImA2BF4pNF_38.986903_-77.029609@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0744577d73596ed2874eb6447314237a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":354392283
+        }
+    ],
+    "wof:id":354392283,
+    "wof:lastmodified":1457207200,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.029609,
+    38.986903,
+    -77.029609,
+    38.986903
+],
+  "geometry": {"coordinates":[-77.02960899999999,38.986903],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 185939025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.954175,38.85584,-76.954175,38.85584",
+    "geom:latitude":38.85584,
+    "geom:longitude":-76.954175,
+    "iso:country":"US",
+    "sg:address":"2413 Green Valley Dr",
+    "sg:city":"Suitland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 899 3614",
+    "sg:postcode":"20746",
+    "sg:province":"MD",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85825385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kDF2X0WI0mpQpydjOC46R_38.855840_-76.954175@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17a3a15b08327eefde165a661304460d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85825385,
+            "region_id":85688741,
+            "venue_id":185939025
+        }
+    ],
+    "wof:id":185939025,
+    "wof:lastmodified":1449007088,
+    "wof:name":"Andre Greene",
+    "wof:parent_id":85825385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [-76.954175,38.85584,-76.954175,38.85584],
+  "geometry": {"coordinates":[-76.954175,38.85584],"type":"Point"}
+}

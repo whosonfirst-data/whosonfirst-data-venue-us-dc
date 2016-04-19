@@ -1,0 +1,67 @@
+{
+  "id": 370851739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.065282,38.975975,-77.065282,38.975975",
+    "geom:latitude":38.975975,
+    "geom:longitude":-77.065282,
+    "iso:country":"US",
+    "sg:address":"3245 Worthington St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 364 4142",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28yB5eiqTJ8NNBUpi8olpB_38.975975_-77.065282@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2e79726cd9293b5c8bede32676f9003",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370851739
+        }
+    ],
+    "wof:id":370851739,
+    "wof:lastmodified":1449031304,
+    "wof:name":"Mother Parkers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [-77.065282,38.975975,-77.065282,38.975975],
+  "geometry": {"coordinates":[-77.065282,38.975975],"type":"Point"}
+}

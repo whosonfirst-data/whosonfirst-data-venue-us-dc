@@ -1,0 +1,65 @@
+{
+  "id": 387022481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.006885,38.82524,-77.006885,38.82524",
+    "geom:latitude":38.82524,
+    "geom:longitude":-77.006885,
+    "iso:country":"US",
+    "sg:address":"4415 S Capitol St SW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 373 1822",
+    "sg:postcode":"20032",
+    "sg:province":"MD",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u6MK7oioxCAZ4VzTOz5t7_38.825240_-77.006885@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"766b8909f9d24d72111d7d53470a2718",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387022481
+        }
+    ],
+    "wof:id":387022481,
+    "wof:lastmodified":1449057359,
+    "wof:name":"Breaking The Chain Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [-77.006885,38.82524,-77.006885,38.82524],
+  "geometry": {"coordinates":[-77.006885,38.82524],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 185610111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.080399,38.949684,-77.080399,38.949684",
+    "geom:latitude":38.949684,
+    "geom:longitude":-77.080399,
+    "iso:country":"US",
+    "sg:address":"4000 Brandywine St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 885 1285",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "program",
+        "radio",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jhPL8EJ0tmqq9UxMzHCDG_38.949684_-77.080399@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fa753bd9b35d2d2528a1b205651d20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":185610111
+        }
+    ],
+    "wof:id":185610111,
+    "wof:lastmodified":1449008168,
+    "wof:name":"Public Interest",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "radio",
+        "producer"
+    ]
+},
+  "bbox": [-77.080399,38.949684,-77.080399,38.949684],
+  "geometry": {"coordinates":[-77.080399,38.949684],"type":"Point"}
+}

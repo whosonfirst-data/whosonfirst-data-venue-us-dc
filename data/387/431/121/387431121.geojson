@@ -1,0 +1,67 @@
+{
+  "id": 387431121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.072598,38.959822,-77.072598,38.959822",
+    "geom:latitude":38.959822,
+    "geom:longitude":-77.072598,
+    "iso:country":"US",
+    "sg:address":"5323 Connecticut Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 237 9811",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bhhazwNYoUjCp6K0AchVc_38.959822_-77.072598@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6539400df68c9cb8a65378b2b708192a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387431121
+        }
+    ],
+    "wof:id":387431121,
+    "wof:lastmodified":1449056618,
+    "wof:name":"Borger Management Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [-77.072598,38.959822,-77.072598,38.959822],
+  "geometry": {"coordinates":[-77.072598,38.959822],"type":"Point"}
+}

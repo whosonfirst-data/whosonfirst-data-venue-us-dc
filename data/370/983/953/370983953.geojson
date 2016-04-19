@@ -1,0 +1,66 @@
+{
+  "id": 370983953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.019272,38.944117,-77.019272,38.944117",
+    "geom:latitude":38.944117,
+    "geom:longitude":-77.019272,
+    "iso:country":"US",
+    "sg:address":"414 Webster St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 545 9071",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85841475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rwK0nb8WAfuBQuakbOjWl_38.944117_-77.019272@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a02f45e09455f52741ca9dcb148516b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85841475,
+            "region_id":85688741,
+            "venue_id":370983953
+        }
+    ],
+    "wof:id":370983953,
+    "wof:lastmodified":1449032194,
+    "wof:name":"Jackson's Transportation Svc",
+    "wof:parent_id":85841475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [-77.019272,38.944117,-77.019272,38.944117],
+  "geometry": {"coordinates":[-77.019272,38.944117],"type":"Point"}
+}

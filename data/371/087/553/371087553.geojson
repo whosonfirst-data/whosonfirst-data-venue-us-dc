@@ -1,0 +1,72 @@
+{
+  "id": 371087553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026737,38.987444,-77.026737,38.987444",
+    "geom:latitude":38.987444,
+    "geom:longitude":-77.026737,
+    "iso:country":"US",
+    "sg:address":"8070 Georgia Ave",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 565 4025",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tmp28D8R59viRDxNpShqr_38.987444_-77.026737@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8090ba31aae0aee49f176d4900d467e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":371087553
+        }
+    ],
+    "wof:id":371087553,
+    "wof:lastmodified":1449049480,
+    "wof:name":"Open Secure Energy Control",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [-77.026737,38.987444,-77.026737,38.987444],
+  "geometry": {"coordinates":[-77.026737,38.987444],"type":"Point"}
+}

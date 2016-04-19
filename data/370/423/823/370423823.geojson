@@ -1,0 +1,65 @@
+{
+  "id": 370423823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.077666,38.930624,-77.077666,38.930624",
+    "geom:latitude":38.930624,
+    "geom:longitude":-77.077666,
+    "iso:country":"US",
+    "sg:address":"3040 Idaho Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 363 6811",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46hyMNU5qWqsrprPdF8y8m_38.930624_-77.077666@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"317ed75a0ec2567d2efd978c73d6e9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370423823
+        }
+    ],
+    "wof:id":370423823,
+    "wof:lastmodified":1449029648,
+    "wof:name":"Home Service Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [-77.077666,38.930624,-77.077666,38.930624],
+  "geometry": {"coordinates":[-77.077666,38.930624],"type":"Point"}
+}

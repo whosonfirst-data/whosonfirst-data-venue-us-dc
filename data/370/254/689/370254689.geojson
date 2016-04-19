@@ -1,0 +1,67 @@
+{
+  "id": 370254689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.999815,38.957862,-76.999815,38.957862",
+    "geom:latitude":38.957862,
+    "geom:longitude":-76.999815,
+    "iso:country":"US",
+    "sg:address":"5506 Chillum Pl NE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 269 9200",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "plastering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ij0aLk2q6um2k5f0orUmf_38.957862_-76.999815@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11b5d1c71ba5b4055da46933e41a90ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370254689
+        }
+    ],
+    "wof:id":370254689,
+    "wof:lastmodified":1449031406,
+    "wof:name":"R J Sullivan Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "contractor"
+    ]
+},
+  "bbox": [-76.999815,38.957862,-76.999815,38.957862],
+  "geometry": {"coordinates":[-76.999815,38.957862],"type":"Point"}
+}

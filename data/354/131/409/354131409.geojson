@@ -1,0 +1,68 @@
+{
+  "id": 354131409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.01223,38.976105,-77.01223,38.976105",
+    "geom:latitude":38.976105,
+    "geom:longitude":-77.01223,
+    "iso:country":"US",
+    "sg:address":"7112 Willow Ave",
+    "sg:city":"Takoma Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 891 1210",
+    "sg:postcode":"20912",
+    "sg:province":"MD",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85851759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P9IDeORSc8al0GoBVJNPo_38.976105_-77.012230@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"120b13060e13492dad5d0611bc8e17fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85851759,
+            "region_id":85688741,
+            "venue_id":354131409
+        }
+    ],
+    "wof:id":354131409,
+    "wof:lastmodified":1449066419,
+    "wof:name":"Wackenhut Corp",
+    "wof:parent_id":85851759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [-77.01223,38.976105,-77.01223,38.976105],
+  "geometry": {"coordinates":[-77.01223,38.976105],"type":"Point"}
+}

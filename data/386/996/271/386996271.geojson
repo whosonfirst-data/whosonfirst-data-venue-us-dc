@@ -1,0 +1,60 @@
+{
+  "id": 386996271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.098098,38.932885,-77.098098,38.932885",
+    "geom:latitude":38.932885,
+    "geom:longitude":-77.098098,
+    "iso:country":"US",
+    "sg:address":"4911 Loughboro Rd NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 5061",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rhFaiR1pTx5LSC0N17Scq_38.932885_-77.098098@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"353f404463f82e3d69d0eecc270e4053",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":386996271
+        }
+    ],
+    "wof:id":386996271,
+    "wof:lastmodified":1449028701,
+    "wof:name":"French Mission To The OAS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.098098,38.932885,-77.098098,38.932885],
+  "geometry": {"coordinates":[-77.098098,38.932885],"type":"Point"}
+}

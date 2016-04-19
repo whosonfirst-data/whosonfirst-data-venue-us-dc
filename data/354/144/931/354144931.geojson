@@ -1,0 +1,66 @@
+{
+  "id": 354144931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.077148,38.969367,-77.077148,38.969367",
+    "geom:latitude":38.969367,
+    "geom:longitude":-77.077148,
+    "iso:country":"US",
+    "sg:address":"9 E Irving St",
+    "sg:city":"Chevy Chase",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 656 6143",
+    "sg:postcode":"20815",
+    "sg:province":"MD",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85810805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YyMk7xdiyizkLN3MJOmJr_38.969367_-77.077148@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd098b09546355c52e1560f02cd3271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85810805,
+            "region_id":85688741,
+            "venue_id":354144931
+        }
+    ],
+    "wof:id":354144931,
+    "wof:lastmodified":1449067212,
+    "wof:name":"Smoot Contracting",
+    "wof:parent_id":85810805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [-77.077148,38.969367,-77.077148,38.969367],
+  "geometry": {"coordinates":[-77.077148,38.969367],"type":"Point"}
+}

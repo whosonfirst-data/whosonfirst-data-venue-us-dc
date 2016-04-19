@@ -1,0 +1,61 @@
+{
+  "id": 354021937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027989,38.962393,-77.027989,38.962393",
+    "geom:latitude":38.962393,
+    "geom:longitude":-77.027989,
+    "iso:country":"US",
+    "sg:address":"5924 Georgia Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 723 5565",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85807587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DPYOid4M0w7julAxVsYPf_38.962393_-77.027989@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec4f7cae056a439e24af8ff405f5c88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85807587,
+            "region_id":85688741,
+            "venue_id":354021937
+        }
+    ],
+    "wof:id":354021937,
+    "wof:lastmodified":1449067035,
+    "wof:name":"Divine Wisdom",
+    "wof:parent_id":85807587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.027989,38.962393,-77.027989,38.962393],
+  "geometry": {"coordinates":[-77.027989,38.962393],"type":"Point"}
+}

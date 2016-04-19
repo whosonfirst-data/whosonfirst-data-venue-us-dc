@@ -1,0 +1,65 @@
+{
+  "id": 387431977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.065183,38.972454,-77.065183,38.972454",
+    "geom:latitude":38.972454,
+    "geom:longitude":-77.065183,
+    "iso:country":"US",
+    "sg:address":"6224 32nd Pl NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 2650",
+    "sg:postcode":"20015",
+    "sg:province":"MD",
+    "sg:tags":[
+        "importer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62FGxRGzxs0sZP6inJay2m_38.972454_-77.065183@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f91677273f01c196a5be7336b4eb75b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387431977
+        }
+    ],
+    "wof:id":387431977,
+    "wof:lastmodified":1449056621,
+    "wof:name":"PWI",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "importer"
+    ]
+},
+  "bbox": [-77.065183,38.972454,-77.065183,38.972454],
+  "geometry": {"coordinates":[-77.065183,38.972454],"type":"Point"}
+}

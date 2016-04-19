@@ -1,0 +1,65 @@
+{
+  "id": 371069553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.002946,38.965084,-77.002946,38.965084",
+    "geom:latitude":38.965084,
+    "geom:longitude":-77.002946,
+    "iso:country":"US",
+    "sg:address":"6101 New Hampshire Ave NE",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 635 6460",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lAQLzo4Wt10h406Hgxk2h_38.965084_-77.002946@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6343318493fe88a04d1ead0fdfb1f2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":371069553
+        }
+    ],
+    "wof:id":371069553,
+    "wof:lastmodified":1449049713,
+    "wof:name":"Maranatha Press",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [-77.002946,38.965084,-77.002946,38.965084],
+  "geometry": {"coordinates":[-77.002946,38.965084],"type":"Point"}
+}

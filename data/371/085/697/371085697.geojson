@@ -1,0 +1,61 @@
+{
+  "id": 371085697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.085681,38.96209,-77.085681,38.96209",
+    "geom:latitude":38.96209,
+    "geom:longitude":-77.085681,
+    "iso:country":"US",
+    "sg:address":"35 Wisconsin Cir",
+    "sg:city":"Chevy Chase",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 654 5932",
+    "sg:postcode":"20815",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85820743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1awmqLNXbuglRSTv1PpKOV_38.962090_-77.085681@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e9ed9e84a9ad8910926a466460980b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85820743,
+            "region_id":85688741,
+            "venue_id":371085697
+        }
+    ],
+    "wof:id":371085697,
+    "wof:lastmodified":1449049286,
+    "wof:name":"Children-Africa Foundation",
+    "wof:parent_id":85820743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.085681,38.96209,-77.085681,38.96209],
+  "geometry": {"coordinates":[-77.085681,38.96209],"type":"Point"}
+}

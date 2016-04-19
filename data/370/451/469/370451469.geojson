@@ -1,0 +1,67 @@
+{
+  "id": 370451469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.07952,38.950649,-77.07952,38.950649",
+    "geom:latitude":38.950649,
+    "geom:longitude":-77.07952,
+    "iso:country":"US",
+    "sg:address":"4050 Chesapeake St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 237 5900",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IzCs2prUU6yz4BhnZ1hVL_38.950649_-77.079520@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3910cd4465a52efbf7544d58852d85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":370451469
+        }
+    ],
+    "wof:id":370451469,
+    "wof:lastmodified":1449030569,
+    "wof:name":"George Browning Travel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [-77.07952,38.950649,-77.07952,38.950649],
+  "geometry": {"coordinates":[-77.07952,38.950649],"type":"Point"}
+}

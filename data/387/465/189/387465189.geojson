@@ -1,0 +1,66 @@
+{
+  "id": 387465189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.957931,38.854782,-76.957931,38.854782",
+    "geom:latitude":38.854782,
+    "geom:longitude":-76.957931,
+    "iso:country":"US",
+    "sg:address":"3000 Branch Ave",
+    "sg:city":"Temple Hills",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 899 2727",
+    "sg:postcode":"20748",
+    "sg:province":"MD",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85825385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ipCFrfTrFu16cwy28pXG4_38.854782_-76.957931@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"077004f769a47cdd4ac2f76aac5bafc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85825385,
+            "region_id":85688741,
+            "venue_id":387465189
+        }
+    ],
+    "wof:id":387465189,
+    "wof:lastmodified":1449058668,
+    "wof:name":"Kendall Baptist Church",
+    "wof:parent_id":85825385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-76.957931,38.854782,-76.957931,38.854782],
+  "geometry": {"coordinates":[-76.957931,38.854782],"type":"Point"}
+}

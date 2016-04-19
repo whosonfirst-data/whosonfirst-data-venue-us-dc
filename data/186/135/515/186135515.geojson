@@ -1,0 +1,67 @@
+{
+  "id": 186135515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.035981,38.982206,-77.035981,38.982206",
+    "geom:latitude":38.982206,
+    "geom:longitude":-77.035981,
+    "iso:country":"US",
+    "sg:address":"1428 Iris St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 882 7451",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3udcXO4sqGvCUeCgHsc3vP_38.982206_-77.035981@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eca18f81043b46abc828b17457da94fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":186135515
+        }
+    ],
+    "wof:id":186135515,
+    "wof:lastmodified":1449051403,
+    "wof:name":"Marvin A Jackson MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-77.035981,38.982206,-77.035981,38.982206],
+  "geometry": {"coordinates":[-77.035981,38.982206],"type":"Point"}
+}

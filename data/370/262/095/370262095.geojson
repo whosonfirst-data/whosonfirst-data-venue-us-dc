@@ -1,0 +1,74 @@
+{
+  "id": 370262095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.076506,38.942215,-77.076506,38.942215",
+    "geom:latitude":38.942215,
+    "geom:longitude":-77.076506,
+    "iso:country":"US",
+    "sg:address":"4000 Wisconsin Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 8003",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869757
+    ],
+    "wof:brand_id":420573841,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qB2cF7ahd2Q6QA5zkPXaf_38.942215_-77.076506@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81fb8cea17140bf9dc9f6c952b082f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869757,
+            "region_id":85688741,
+            "venue_id":370262095
+        }
+    ],
+    "wof:id":370262095,
+    "wof:lastmodified":1457207643,
+    "wof:name":"Cingular Wireless",
+    "wof:parent_id":85869757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -77.076506,
+    38.942215,
+    -77.076506,
+    38.942215
+],
+  "geometry": {"coordinates":[-77.07650599999999,38.942215],"type":"Point"}
+}

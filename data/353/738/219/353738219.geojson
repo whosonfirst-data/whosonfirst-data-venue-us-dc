@@ -1,0 +1,66 @@
+{
+  "id": 353738219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026741,38.987718,-77.026741,38.987718",
+    "geom:latitude":38.987718,
+    "geom:longitude":-77.026741,
+    "iso:country":"US",
+    "sg:address":"8040 Georgia Ave",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 587 3600",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rrEQFoALmFJULAyqjGHHa_38.987718_-77.026741@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"14fc3d5b33a1445b0a00d4d0383765c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":353738219
+        }
+    ],
+    "wof:id":353738219,
+    "wof:lastmodified":1449020107,
+    "wof:name":"Abbey Camera",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [-77.026741,38.987718,-77.026741,38.987718],
+  "geometry": {"coordinates":[-77.026741,38.987718],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 387005425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.025508,38.956212,-77.025508,38.956212",
+    "geom:latitude":38.956212,
+    "geom:longitude":-77.025508,
+    "iso:country":"US",
+    "sg:address":"818 Kennedy St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 726 4500",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85841475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o8z8AARXF8apSJG0D2LDQ_38.956212_-77.025508@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f09adc37095aa0a6ad9e08f44f1521f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85841475,
+            "region_id":85688741,
+            "venue_id":387005425
+        }
+    ],
+    "wof:id":387005425,
+    "wof:lastmodified":1449059609,
+    "wof:name":"Jazz Manie Hair Studio",
+    "wof:parent_id":85841475,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.025508,38.956212,-77.025508,38.956212],
+  "geometry": {"coordinates":[-77.025508,38.956212],"type":"Point"}
+}

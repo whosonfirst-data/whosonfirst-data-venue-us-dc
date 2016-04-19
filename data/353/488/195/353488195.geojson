@@ -1,0 +1,67 @@
+{
+  "id": 353488195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.096814,38.931394,-77.096814,38.931394",
+    "geom:latitude":38.931394,
+    "geom:longitude":-77.096814,
+    "iso:country":"US",
+    "sg:address":"2946 University Ter NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 363 8370",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_459Xg2gjynQvDkOL9bjEJM_38.931394_-77.096814@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"987ba61d7c375f1560c2416821d3cd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353488195
+        }
+    ],
+    "wof:id":353488195,
+    "wof:lastmodified":1449020702,
+    "wof:name":"Henry Owens Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [-77.096814,38.931394,-77.096814,38.931394],
+  "geometry": {"coordinates":[-77.096814,38.931394],"type":"Point"}
+}

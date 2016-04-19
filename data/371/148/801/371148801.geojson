@@ -1,0 +1,66 @@
+{
+  "id": 371148801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.073889,38.929101,-77.073889,38.929101",
+    "geom:latitude":38.929101,
+    "geom:longitude":-77.073889,
+    "iso:country":"US",
+    "sg:address":"3815 Cathedral Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 364 0066",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85809813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jj7TEd3nwfM5R4ZsHYfp1_38.929101_-77.073889@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fed3423d98eee0fdb5c6182124e92af",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85809813,
+            "region_id":85688741,
+            "venue_id":371148801
+        }
+    ],
+    "wof:id":371148801,
+    "wof:lastmodified":1449049964,
+    "wof:name":"Ronald G Russell",
+    "wof:parent_id":85809813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [-77.073889,38.929101,-77.073889,38.929101],
+  "geometry": {"coordinates":[-77.073889,38.929101],"type":"Point"}
+}

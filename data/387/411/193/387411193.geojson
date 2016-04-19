@@ -1,0 +1,65 @@
+{
+  "id": 387411193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.084097,38.932426,-77.084097,38.932426",
+    "geom:latitude":38.932426,
+    "geom:longitude":-77.084097,
+    "iso:country":"US",
+    "sg:address":"3277 Sutton Pl NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 966 3311",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M1swqBtTQ1OztHwOpMAm0_38.932426_-77.084097@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a0705018601f952c4efc8e4814230807",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387411193
+        }
+    ],
+    "wof:id":387411193,
+    "wof:lastmodified":1449056294,
+    "wof:name":"Protocol",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [-77.084097,38.932426,-77.084097,38.932426],
+  "geometry": {"coordinates":[-77.084097,38.932426],"type":"Point"}
+}

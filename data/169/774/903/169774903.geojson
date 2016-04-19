@@ -1,0 +1,61 @@
+{
+  "id": 169774903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.012367,38.975854,-77.012367,38.975854",
+    "geom:latitude":38.975854,
+    "geom:longitude":-77.012367,
+    "iso:country":"US",
+    "sg:address":"7128 Willow Ave",
+    "sg:city":"Takoma Park",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 270 5561",
+    "sg:postcode":"20912",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85851759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01UaCdaCVOkbZwzRBJa29f_38.975854_-77.012367@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a8971b8f43e4840f44c5d8a26591fce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85851759,
+            "region_id":85688741,
+            "venue_id":169774903
+        }
+    ],
+    "wof:id":169774903,
+    "wof:lastmodified":1449033961,
+    "wof:name":"Noterman Peter A",
+    "wof:parent_id":85851759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.012367,38.975854,-77.012367,38.975854],
+  "geometry": {"coordinates":[-77.012367,38.975854],"type":"Point"}
+}

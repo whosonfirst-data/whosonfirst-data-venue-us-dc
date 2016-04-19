@@ -1,0 +1,68 @@
+{
+  "id": 371049479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.030822,38.987899,-77.030822,38.987899",
+    "geom:latitude":38.987899,
+    "geom:longitude":-77.030822,
+    "iso:country":"US",
+    "sg:address":"7961 Eastern Ave",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 565 5410",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GP6PhFiZV6I8MFW45tA35_38.987899_-77.030822@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68dc9a357101607232202e06bb76c314",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":371049479
+        }
+    ],
+    "wof:id":371049479,
+    "wof:lastmodified":1449049543,
+    "wof:name":"T W Security",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [-77.030822,38.987899,-77.030822,38.987899],
+  "geometry": {"coordinates":[-77.030822,38.987899],"type":"Point"}
+}

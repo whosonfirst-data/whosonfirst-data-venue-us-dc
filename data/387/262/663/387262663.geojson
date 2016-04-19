@@ -1,0 +1,66 @@
+{
+  "id": 387262663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.001403,38.968757,-77.001403,38.968757",
+    "geom:latitude":38.968757,
+    "geom:longitude":-77.001403,
+    "iso:country":"US",
+    "sg:address":"6476 Sligo Mill Rd",
+    "sg:city":"Takoma Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 891 0150",
+    "sg:postcode":"20912",
+    "sg:province":"MD",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85829641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61YQERvJlDQNGuOKSxDVR1_38.968757_-77.001403@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40add16366c97328321e39d0ecda2b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85829641,
+            "region_id":85688741,
+            "venue_id":387262663
+        }
+    ],
+    "wof:id":387262663,
+    "wof:lastmodified":1449058459,
+    "wof:name":"Building Repair Services",
+    "wof:parent_id":85829641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-77.001403,38.968757,-77.001403,38.968757],
+  "geometry": {"coordinates":[-77.001403,38.968757],"type":"Point"}
+}

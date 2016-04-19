@@ -1,0 +1,61 @@
+{
+  "id": 185876471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.083166,38.955492,-77.083166,38.955492",
+    "geom:latitude":38.955492,
+    "geom:longitude":-77.083166,
+    "iso:country":"US",
+    "sg:address":"5034 Wisconsin Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 686 9830",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85844293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Bh6Rj3znHbzyMB71L65J_38.955492_-77.083166@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71fe190b2bbaa6cce7815799d30e5961",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85844293,
+            "region_id":85688741,
+            "venue_id":185876471
+        }
+    ],
+    "wof:id":185876471,
+    "wof:lastmodified":1449006940,
+    "wof:name":"Peter Ferris & Levin Realtors",
+    "wof:parent_id":85844293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-77.083166,38.955492,-77.083166,38.955492],
+  "geometry": {"coordinates":[-77.083166,38.955492],"type":"Point"}
+}

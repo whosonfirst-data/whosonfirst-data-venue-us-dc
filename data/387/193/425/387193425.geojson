@@ -1,0 +1,68 @@
+{
+  "id": 387193425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.105562,38.930279,-77.105562,38.930279",
+    "geom:latitude":38.930279,
+    "geom:longitude":-77.105562,
+    "iso:country":"US",
+    "sg:address":"5101 Cathedral Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 244 9525",
+    "sg:postcode":"20016",
+    "sg:province":"MD",
+    "sg:tags":[
+        "economic",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85828105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G4bLsgVp2tEXUUbnmfyUk_38.930279_-77.105562@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b986e209d31b49397eccc1a01b38d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85828105,
+            "region_id":85688741,
+            "venue_id":387193425
+        }
+    ],
+    "wof:id":387193425,
+    "wof:lastmodified":1449056721,
+    "wof:name":"Institute-Liberty & Democracy",
+    "wof:parent_id":85828105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "economic",
+        "analysis"
+    ]
+},
+  "bbox": [-77.105562,38.930279,-77.105562,38.930279],
+  "geometry": {"coordinates":[-77.105562,38.930279],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 353482521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026879,38.983823,-77.026879,38.983823",
+    "geom:latitude":38.983823,
+    "geom:longitude":-77.026879,
+    "iso:country":"US",
+    "sg:address":"7700 Alaska Ave NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 722 2207",
+    "sg:postcode":"20012",
+    "sg:province":"MD",
+    "sg:tags":[
+        "exporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b2W4tiYSES5MqfAPk48C3_38.983823_-77.026879@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03deaa6aa60ad0ed537c779de394ad66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":353482521
+        }
+    ],
+    "wof:id":353482521,
+    "wof:lastmodified":1449019154,
+    "wof:name":"W & A Fondcs Enterprises",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exporter"
+    ]
+},
+  "bbox": [-77.026879,38.983823,-77.026879,38.983823],
+  "geometry": {"coordinates":[-77.026879,38.983823],"type":"Point"}
+}

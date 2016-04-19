@@ -1,0 +1,68 @@
+{
+  "id": 354262369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.028334,38.940727,-77.028334,38.940727",
+    "geom:latitude":38.940727,
+    "geom:longitude":-77.028334,
+    "iso:country":"US",
+    "sg:address":"1250 Taylor St NW",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 202 291 0256",
+    "sg:postcode":"20011",
+    "sg:province":"MD",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85869835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q6fPgSQUR9kremFbRiAl1_38.940727_-77.028334@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"142f36d68b5a73409756756d9408c0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869835,
+            "region_id":85688741,
+            "venue_id":354262369
+        }
+    ],
+    "wof:id":354262369,
+    "wof:lastmodified":1449067003,
+    "wof:name":"Spellman's Lock & Safe",
+    "wof:parent_id":85869835,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [-77.028334,38.940727,-77.028334,38.940727],
+  "geometry": {"coordinates":[-77.028334,38.940727],"type":"Point"}
+}

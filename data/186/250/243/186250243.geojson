@@ -1,0 +1,70 @@
+{
+  "id": 186250243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.026838,38.987397,-77.026838,38.987397",
+    "geom:latitude":38.987397,
+    "geom:longitude":-77.026838,
+    "iso:country":"US",
+    "sg:address":"8060 13th St",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 572 2446",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "personal",
+        "chef",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WOTg3LQTpYUeVEqn6eCWw_38.987397_-77.026838@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"222199ff0ed6998bb212085b8cf37d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":186250243
+        }
+    ],
+    "wof:id":186250243,
+    "wof:lastmodified":1449051908,
+    "wof:name":"Renadas Catering",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "chef",
+        "catering"
+    ]
+},
+  "bbox": [-77.026838,38.987397,-77.026838,38.987397],
+  "geometry": {"coordinates":[-77.026838,38.987397],"type":"Point"}
+}

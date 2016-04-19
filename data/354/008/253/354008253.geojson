@@ -1,0 +1,66 @@
+{
+  "id": 354008253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027117,38.989078,-77.027117,38.989078",
+    "geom:latitude":38.989078,
+    "geom:longitude":-77.027117,
+    "iso:country":"US",
+    "sg:address":"1150 Blair Mill Rd",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 942 0958",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qLcfmEC2duI6a2xCjYse3_38.989078_-77.027117@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be3489bb3166116a99e215032862b7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":354008253
+        }
+    ],
+    "wof:id":354008253,
+    "wof:lastmodified":1449066447,
+    "wof:name":"Captain Seafood & Kabobs",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-77.027117,38.989078,-77.027117,38.989078],
+  "geometry": {"coordinates":[-77.027117,38.989078],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 337407689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-76.912874,38.884847,-76.912874,38.884847",
+    "geom:latitude":38.884847,
+    "geom:longitude":-76.912874,
+    "iso:country":"US",
+    "sg:address":"6044 Central Ave",
+    "sg:city":"Capitol Heights",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 350 1070",
+    "sg:postcode":"20743",
+    "sg:province":"MD",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85838231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KkJKeXvv39ke1Zupr6zTc_38.884847_-76.912874@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e2f6c3fd60a13e608e1a0c0df88e1759",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85838231,
+            "region_id":85688741,
+            "venue_id":337407689
+        }
+    ],
+    "wof:id":337407689,
+    "wof:lastmodified":1449027395,
+    "wof:name":"Little Child Holy Church",
+    "wof:parent_id":85838231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-76.912874,38.884847,-76.912874,38.884847],
+  "geometry": {"coordinates":[-76.912874,38.884847],"type":"Point"}
+}

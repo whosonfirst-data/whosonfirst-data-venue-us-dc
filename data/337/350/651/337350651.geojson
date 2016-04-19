@@ -1,0 +1,66 @@
+{
+  "id": 337350651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.030862,38.990028,-77.030862,38.990028",
+    "geom:latitude":38.990028,
+    "geom:longitude":-77.030862,
+    "iso:country":"US",
+    "sg:address":"1302 Blair Mill Rd",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 585 8092",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889,
+        85837643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ngc5BgCOUA1X4cTaZOeEd_38.990028_-77.030862@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e69e37b171efd08f7aae080a6e405b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":337350651
+        }
+    ],
+    "wof:id":337350651,
+    "wof:lastmodified":1449027365,
+    "wof:name":"Center For Self Sufficiency",
+    "wof:parent_id":85837643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [-77.030862,38.990028,-77.030862,38.990028],
+  "geometry": {"coordinates":[-77.030862,38.990028],"type":"Point"}
+}

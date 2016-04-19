@@ -1,0 +1,65 @@
+{
+  "id": 387511943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-77.027202,38.984936,-77.027202,38.984936",
+    "geom:latitude":38.984936,
+    "geom:longitude":-77.027202,
+    "iso:country":"US",
+    "sg:address":"7835 Eastern Ave NW",
+    "sg:city":"Silver Spring",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 589 3691",
+    "sg:postcode":"20910",
+    "sg:province":"MD",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688741,
+        85633793,
+        85931779,
+        102084889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vr5PPU10gPRuVuFg1heKj_38.984936_-77.027202@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c562c0f1255874a522ceee5f34e185e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":-1,
+            "region_id":85688741,
+            "venue_id":387511943
+        }
+    ],
+    "wof:id":387511943,
+    "wof:lastmodified":1449057857,
+    "wof:name":"Washington Fashion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [-77.027202,38.984936,-77.027202,38.984936],
+  "geometry": {"coordinates":[-77.027202,38.984936],"type":"Point"}
+}
