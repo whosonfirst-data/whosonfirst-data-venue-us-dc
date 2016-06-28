@@ -2,13 +2,14 @@
   "id": 353611525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.027931,38.956027,-77.027931,38.956027",
     "geom:latitude":38.956027,
     "geom:longitude":-77.027931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5419 Georgia Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353611525,
-    "wof:lastmodified":1449020281,
+    "wof:lastmodified":1466426863,
     "wof:name":"Metro-American Tax Svc",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-77.027931,38.956027,-77.027931,38.956027],
+  "bbox": [
+    -77.027931,
+    38.956027,
+    -77.027931,
+    38.956027
+],
   "geometry": {"coordinates":[-77.027931,38.956027],"type":"Point"}
 }

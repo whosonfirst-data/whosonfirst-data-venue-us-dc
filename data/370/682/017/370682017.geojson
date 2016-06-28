@@ -2,13 +2,14 @@
   "id": 370682017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.012554,38.968001,-77.012554,38.968001",
     "geom:latitude":38.968001,
     "geom:longitude":-77.012554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6335 Chillum Pl NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370682017,
-    "wof:lastmodified":1449029679,
+    "wof:lastmodified":1466426875,
     "wof:name":"Southern Distributors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "parts"
     ]
 },
-  "bbox": [-77.012554,38.968001,-77.012554,38.968001],
-  "geometry": {"coordinates":[-77.012554,38.968001],"type":"Point"}
+  "bbox": [
+    -77.012554,
+    38.968001,
+    -77.012554,
+    38.968001
+],
+  "geometry": {"coordinates":[-77.01255399999999,38.968001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353976961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.947693,38.860121,-76.947693,38.860121",
     "geom:latitude":38.860121,
     "geom:longitude":-76.947693,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3958 Suitland Rd",
     "sg:city":"Suitland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353976961,
-    "wof:lastmodified":1449019304,
+    "wof:lastmodified":1466426866,
     "wof:name":"Secure Solutionz LLC",
     "wof:parent_id":85825385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "internet"
     ]
 },
-  "bbox": [-76.947693,38.860121,-76.947693,38.860121],
+  "bbox": [
+    -76.947693,
+    38.860121,
+    -76.947693,
+    38.860121
+],
   "geometry": {"coordinates":[-76.947693,38.860121],"type":"Point"}
 }

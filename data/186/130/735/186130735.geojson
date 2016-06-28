@@ -2,13 +2,14 @@
   "id": 186130735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.011673,38.823288,-77.011673,38.823288",
     "geom:latitude":38.823288,
     "geom:longitude":-77.011673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4660 Martin Luther King Jr Ave SW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186130735,
-    "wof:lastmodified":1449051317,
+    "wof:lastmodified":1466426857,
     "wof:name":"Combined Concepts & Harry's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "improvement"
     ]
 },
-  "bbox": [-77.011673,38.823288,-77.011673,38.823288],
+  "bbox": [
+    -77.011673,
+    38.823288,
+    -77.011673,
+    38.823288
+],
   "geometry": {"coordinates":[-77.011673,38.823288],"type":"Point"}
 }

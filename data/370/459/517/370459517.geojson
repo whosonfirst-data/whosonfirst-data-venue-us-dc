@@ -2,13 +2,14 @@
   "id": 370459517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.08039,38.930195,-77.08039,38.930195",
     "geom:latitude":38.930195,
     "geom:longitude":-77.08039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Cathedral Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370459517,
-    "wof:lastmodified":1449030465,
+    "wof:lastmodified":1466426873,
     "wof:name":"Shepard Aolfred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.08039,38.930195,-77.08039,38.930195],
-  "geometry": {"coordinates":[-77.08039,38.930195],"type":"Point"}
+  "bbox": [
+    -77.08039,
+    38.930195,
+    -77.08039,
+    38.930195
+],
+  "geometry": {"coordinates":[-77.08038999999999,38.930195],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169833823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.007674,38.830214,-77.007674,38.830214",
     "geom:latitude":38.830214,
     "geom:longitude":-77.007674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4001 S Capitol St SW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169833823,
-    "wof:lastmodified":1449033108,
+    "wof:lastmodified":1466426860,
     "wof:name":"Washington Income Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.007674,38.830214,-77.007674,38.830214],
-  "geometry": {"coordinates":[-77.007674,38.830214],"type":"Point"}
+  "bbox": [
+    -77.007674,
+    38.830214,
+    -77.007674,
+    38.830214
+],
+  "geometry": {"coordinates":[-77.00767399999999,38.830214],"type":"Point"}
 }

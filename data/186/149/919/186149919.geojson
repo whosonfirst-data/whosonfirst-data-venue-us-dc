@@ -2,13 +2,14 @@
   "id": 186149919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.040754,38.940738,-77.040754,38.940738",
     "geom:latitude":38.940738,
     "geom:longitude":-77.040754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1720 Taylor St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186149919,
-    "wof:lastmodified":1449050262,
+    "wof:lastmodified":1466426857,
     "wof:name":"Rafet Tabaku Home Improvements",
     "wof:parent_id":85812945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-77.040754,38.940738,-77.040754,38.940738],
-  "geometry": {"coordinates":[-77.040754,38.940738],"type":"Point"}
+  "bbox": [
+    -77.040754,
+    38.940738,
+    -77.040754,
+    38.940738
+],
+  "geometry": {"coordinates":[-77.04075400000001,38.940738],"type":"Point"}
 }

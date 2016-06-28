@@ -2,13 +2,14 @@
   "id": 337484685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.015425,38.94098,-77.015425,38.94098",
     "geom:latitude":38.94098,
     "geom:longitude":-77.015425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4010 3rd St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337484685,
-    "wof:lastmodified":1449027694,
+    "wof:lastmodified":1466426862,
     "wof:name":"First Time Plumbing & Heating",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.015425,38.94098,-77.015425,38.94098],
-  "geometry": {"coordinates":[-77.015425,38.94098],"type":"Point"}
+  "bbox": [
+    -77.015425,
+    38.94098,
+    -77.015425,
+    38.94098
+],
+  "geometry": {"coordinates":[-77.01542499999999,38.94098],"type":"Point"}
 }

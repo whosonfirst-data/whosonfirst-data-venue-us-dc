@@ -2,13 +2,14 @@
   "id": 387050873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.077142,38.96102,-77.077142,38.96102",
     "geom:latitude":38.96102,
     "geom:longitude":-77.077142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5324 39th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387050873,
-    "wof:lastmodified":1449058206,
+    "wof:lastmodified":1466426878,
     "wof:name":"Christine W Lynn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-77.077142,38.96102,-77.077142,38.96102],
-  "geometry": {"coordinates":[-77.077142,38.96102],"type":"Point"}
+  "bbox": [
+    -77.077142,
+    38.96102,
+    -77.077142,
+    38.96102
+],
+  "geometry": {"coordinates":[-77.07714199999999,38.96102],"type":"Point"}
 }

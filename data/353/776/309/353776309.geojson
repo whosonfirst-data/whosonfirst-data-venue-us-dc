@@ -2,13 +2,14 @@
   "id": 353776309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.085876,38.933406,-77.085876,38.933406",
     "geom:latitude":38.933406,
     "geom:longitude":-77.085876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 New Mexico Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353776309,
-    "wof:lastmodified":1449018821,
+    "wof:lastmodified":1466426864,
     "wof:name":"Antigua & Barbuda Mission",
     "wof:parent_id":85857115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "affairs"
     ]
 },
-  "bbox": [-77.085876,38.933406,-77.085876,38.933406],
+  "bbox": [
+    -77.085876,
+    38.933406,
+    -77.085876,
+    38.933406
+],
   "geometry": {"coordinates":[-77.085876,38.933406],"type":"Point"}
 }

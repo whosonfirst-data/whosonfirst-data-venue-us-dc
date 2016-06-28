@@ -2,13 +2,14 @@
   "id": 186108487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.026592,38.981106,-77.026592,38.981106",
     "geom:latitude":38.981106,
     "geom:longitude":-77.026592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7416 Georgia Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186108487,
-    "wof:lastmodified":1449050309,
+    "wof:lastmodified":1466426857,
     "wof:name":"Naturally Yours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "scalp"
     ]
 },
-  "bbox": [-77.026592,38.981106,-77.026592,38.981106],
-  "geometry": {"coordinates":[-77.026592,38.981106],"type":"Point"}
+  "bbox": [
+    -77.026592,
+    38.981106,
+    -77.026592,
+    38.981106
+],
+  "geometry": {"coordinates":[-77.02659199999999,38.981106],"type":"Point"}
 }

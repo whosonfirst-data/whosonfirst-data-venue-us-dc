@@ -2,13 +2,14 @@
   "id": 370450095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.079136,38.961095,-77.079136,38.961095",
     "geom:latitude":38.961095,
     "geom:longitude":-77.079136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3921 Military Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370450095,
-    "wof:lastmodified":1449031945,
+    "wof:lastmodified":1466426873,
     "wof:name":"Susanne Mc Coy Assocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-77.079136,38.961095,-77.079136,38.961095],
-  "geometry": {"coordinates":[-77.079136,38.961095],"type":"Point"}
+  "bbox": [
+    -77.079136,
+    38.961095,
+    -77.079136,
+    38.961095
+],
+  "geometry": {"coordinates":[-77.07913600000001,38.961095],"type":"Point"}
 }

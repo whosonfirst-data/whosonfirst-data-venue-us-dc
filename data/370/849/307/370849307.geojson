@@ -2,13 +2,14 @@
   "id": 370849307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.078752,38.947902,-77.078752,38.947902",
     "geom:latitude":38.947902,
     "geom:longitude":-77.078752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4000 Albemarle St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370849307,
-    "wof:lastmodified":1449029719,
+    "wof:lastmodified":1466426876,
     "wof:name":"Pembroke West Assoc",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-77.078752,38.947902,-77.078752,38.947902],
-  "geometry": {"coordinates":[-77.078752,38.947902],"type":"Point"}
+  "bbox": [
+    -77.078752,
+    38.947902,
+    -77.078752,
+    38.947902
+],
+  "geometry": {"coordinates":[-77.07875199999999,38.947902],"type":"Point"}
 }

@@ -9,6 +9,7 @@
     "geom:latitude":38.95291,
     "geom:longitude":-77.002837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Ingraham St NE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387529449,
-    "wof:lastmodified":1457208830,
+    "wof:lastmodified":1466426881,
     "wof:name":"MCI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

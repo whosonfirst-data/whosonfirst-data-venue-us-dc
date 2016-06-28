@@ -2,13 +2,14 @@
   "id": 354112707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.016715,38.954414,-77.016715,38.954414",
     "geom:latitude":38.954414,
     "geom:longitude":-77.016715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5202 Kansas Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354112707,
-    "wof:lastmodified":1449066698,
+    "wof:lastmodified":1466426867,
     "wof:name":"Columbus Ashby",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-77.016715,38.954414,-77.016715,38.954414],
+  "bbox": [
+    -77.016715,
+    38.954414,
+    -77.016715,
+    38.954414
+],
   "geometry": {"coordinates":[-77.016715,38.954414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371029461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.991994,38.841267,-76.991994,38.841267",
     "geom:latitude":38.841267,
     "geom:longitude":-76.991994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3311 10th Pl SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":371029461,
-    "wof:lastmodified":1449049468,
+    "wof:lastmodified":1466426870,
     "wof:name":"Cathlin's Closet & Accessories",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accessory"
     ]
 },
-  "bbox": [-76.991994,38.841267,-76.991994,38.841267],
-  "geometry": {"coordinates":[-76.991994,38.841267],"type":"Point"}
+  "bbox": [
+    -76.991994,
+    38.841267,
+    -76.991994,
+    38.841267
+],
+  "geometry": {"coordinates":[-76.99199400000001,38.841267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353506795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.006837,38.825147,-77.006837,38.825147",
     "geom:latitude":38.825147,
     "geom:longitude":-77.006837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4405 S Capitol St SW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353506795,
-    "wof:lastmodified":1449018307,
+    "wof:lastmodified":1466426863,
     "wof:name":"A Affordable Printing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"
     ]
 },
-  "bbox": [-77.006837,38.825147,-77.006837,38.825147],
+  "bbox": [
+    -77.006837,
+    38.825147,
+    -77.006837,
+    38.825147
+],
   "geometry": {"coordinates":[-77.006837,38.825147],"type":"Point"}
 }

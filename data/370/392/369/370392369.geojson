@@ -2,13 +2,14 @@
   "id": 370392369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.039438,38.989214,-77.039438,38.989214",
     "geom:latitude":38.989214,
     "geom:longitude":-77.039438,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Roxanna Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370392369,
-    "wof:lastmodified":1449031805,
+    "wof:lastmodified":1466426872,
     "wof:name":"Lipscomb Realty Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.039438,38.989214,-77.039438,38.989214],
+  "bbox": [
+    -77.039438,
+    38.989214,
+    -77.039438,
+    38.989214
+],
   "geometry": {"coordinates":[-77.039438,38.989214],"type":"Point"}
 }

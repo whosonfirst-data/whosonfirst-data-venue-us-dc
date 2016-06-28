@@ -2,13 +2,14 @@
   "id": 386954363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.910396,38.885151,-76.910396,38.885151",
     "geom:latitude":38.885151,
     "geom:longitude":-76.910396,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6070 Central Ave",
     "sg:city":"Capitol Heights",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":386954363,
-    "wof:lastmodified":1449028925,
+    "wof:lastmodified":1466426877,
     "wof:name":"Capitol Cash Register Co Inc",
     "wof:parent_id":85838231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.910396,38.885151,-76.910396,38.885151],
-  "geometry": {"coordinates":[-76.910396,38.885151],"type":"Point"}
+  "bbox": [
+    -76.910396,
+    38.885151,
+    -76.910396,
+    38.885151
+],
+  "geometry": {"coordinates":[-76.91039600000001,38.885151],"type":"Point"}
 }

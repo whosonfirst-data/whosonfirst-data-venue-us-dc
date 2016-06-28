@@ -2,13 +2,14 @@
   "id": 185924433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.027193,38.950679,-77.027193,38.950679",
     "geom:latitude":38.950679,
     "geom:longitude":-77.027193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4913 Georgia Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":185924433,
-    "wof:lastmodified":1449007049,
+    "wof:lastmodified":1466426859,
     "wof:name":"San Carlos Market",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-77.027193,38.950679,-77.027193,38.950679],
+  "bbox": [
+    -77.027193,
+    38.950679,
+    -77.027193,
+    38.950679
+],
   "geometry": {"coordinates":[-77.027193,38.950679],"type":"Point"}
 }

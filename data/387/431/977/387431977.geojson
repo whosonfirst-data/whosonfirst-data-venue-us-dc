@@ -2,13 +2,14 @@
   "id": 387431977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.065183,38.972454,-77.065183,38.972454",
     "geom:latitude":38.972454,
     "geom:longitude":-77.065183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 32nd Pl NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387431977,
-    "wof:lastmodified":1449056621,
+    "wof:lastmodified":1466426881,
     "wof:name":"PWI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-77.065183,38.972454,-77.065183,38.972454],
+  "bbox": [
+    -77.065183,
+    38.972454,
+    -77.065183,
+    38.972454
+],
   "geometry": {"coordinates":[-77.065183,38.972454],"type":"Point"}
 }

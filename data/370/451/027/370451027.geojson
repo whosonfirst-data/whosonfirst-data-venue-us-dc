@@ -2,13 +2,14 @@
   "id": 370451027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.079657,38.947983,-77.079657,38.947983",
     "geom:latitude":38.947983,
     "geom:longitude":-77.079657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4011 Albemarle St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370451027,
-    "wof:lastmodified":1449030564,
+    "wof:lastmodified":1466426873,
     "wof:name":"Gates & Fox",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.079657,38.947983,-77.079657,38.947983],
+  "bbox": [
+    -77.079657,
+    38.947983,
+    -77.079657,
+    38.947983
+],
   "geometry": {"coordinates":[-77.079657,38.947983],"type":"Point"}
 }

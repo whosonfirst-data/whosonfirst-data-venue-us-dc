@@ -9,6 +9,7 @@
     "geom:latitude":38.98716,
     "geom:longitude":-77.029419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8040 13th St",
     "sg:city":"Silver Spring",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":386930113,
-    "wof:lastmodified":1457208144,
+    "wof:lastmodified":1466426877,
     "wof:name":"Days Inn",
     "wof:parent_id":85837643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

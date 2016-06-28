@@ -2,13 +2,14 @@
   "id": 370733803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.996548,38.830007,-76.996548,38.830007",
     "geom:latitude":38.830007,
     "geom:longitude":-76.996548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Brandywine St SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370733803,
-    "wof:lastmodified":1449029567,
+    "wof:lastmodified":1466426875,
     "wof:name":"Brandywine Street Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-76.996548,38.830007,-76.996548,38.830007],
+  "bbox": [
+    -76.996548,
+    38.830007,
+    -76.996548,
+    38.830007
+],
   "geometry": {"coordinates":[-76.996548,38.830007],"type":"Point"}
 }

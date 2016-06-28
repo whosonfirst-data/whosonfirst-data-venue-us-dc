@@ -2,13 +2,14 @@
   "id": 387278291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.073289,38.935991,-77.073289,38.935991",
     "geom:latitude":38.935991,
     "geom:longitude":-77.073289,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3412 Idaho Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387278291,
-    "wof:lastmodified":1449058211,
+    "wof:lastmodified":1466426879,
     "wof:name":"Dalton Brody LTD",
     "wof:parent_id":85869757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-77.073289,38.935991,-77.073289,38.935991],
+  "bbox": [
+    -77.073289,
+    38.935991,
+    -77.073289,
+    38.935991
+],
   "geometry": {"coordinates":[-77.073289,38.935991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370543013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.102648,38.928982,-77.102648,38.928982",
     "geom:latitude":38.928982,
     "geom:longitude":-77.102648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2877 Arizona Ter NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370543013,
-    "wof:lastmodified":1449029753,
+    "wof:lastmodified":1466426874,
     "wof:name":"Washington Columbia District",
     "wof:parent_id":85852099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-77.102648,38.928982,-77.102648,38.928982],
+  "bbox": [
+    -77.102648,
+    38.928982,
+    -77.102648,
+    38.928982
+],
   "geometry": {"coordinates":[-77.102648,38.928982],"type":"Point"}
 }

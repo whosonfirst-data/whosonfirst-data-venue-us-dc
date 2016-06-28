@@ -2,13 +2,14 @@
   "id": 370455715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.007525,38.967265,-77.007525,38.967265",
     "geom:latitude":38.967265,
     "geom:longitude":-77.007525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Tuckerman St NE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370455715,
-    "wof:lastmodified":1449031928,
+    "wof:lastmodified":1466426873,
     "wof:name":"Day & Night Fuel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "burner"
     ]
 },
-  "bbox": [-77.007525,38.967265,-77.007525,38.967265],
+  "bbox": [
+    -77.007525,
+    38.967265,
+    -77.007525,
+    38.967265
+],
   "geometry": {"coordinates":[-77.007525,38.967265],"type":"Point"}
 }

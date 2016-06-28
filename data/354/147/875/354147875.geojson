@@ -9,6 +9,7 @@
     "geom:latitude":38.949318,
     "geom:longitude":-77.078819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4520 40th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":354147875,
-    "wof:lastmodified":1457207868,
+    "wof:lastmodified":1466426867,
     "wof:name":"Hollywood Video",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

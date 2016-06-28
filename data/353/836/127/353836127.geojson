@@ -2,13 +2,14 @@
   "id": 353836127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.079553,38.94783,-77.079553,38.94783",
     "geom:latitude":38.94783,
     "geom:longitude":-77.079553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4435 Wisconsin Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":353836127,
-    "wof:lastmodified":1449019929,
+    "wof:lastmodified":1466426865,
     "wof:name":"Capitol City Properties Inc",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.079553,38.94783,-77.079553,38.94783],
+  "bbox": [
+    -77.079553,
+    38.94783,
+    -77.079553,
+    38.94783
+],
   "geometry": {"coordinates":[-77.079553,38.94783],"type":"Point"}
 }

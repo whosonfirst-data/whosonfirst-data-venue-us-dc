@@ -2,13 +2,14 @@
   "id": 353966933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.026018,38.956196,-77.026018,38.956196",
     "geom:latitude":38.956196,
     "geom:longitude":-77.026018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"930 Kennedy St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":353966933,
-    "wof:lastmodified":1449018275,
+    "wof:lastmodified":1466426865,
     "wof:name":"Bold Concepts Inc",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-77.026018,38.956196,-77.026018,38.956196],
-  "geometry": {"coordinates":[-77.026018,38.956196],"type":"Point"}
+  "bbox": [
+    -77.026018,
+    38.956196,
+    -77.026018,
+    38.956196
+],
+  "geometry": {"coordinates":[-77.02601799999999,38.956196],"type":"Point"}
 }

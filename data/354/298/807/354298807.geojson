@@ -2,13 +2,14 @@
   "id": 354298807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.032804,38.939415,-77.032804,38.939415",
     "geom:latitude":38.939415,
     "geom:longitude":-77.032804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3930 14th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":354298807,
-    "wof:lastmodified":1449066365,
+    "wof:lastmodified":1466426868,
     "wof:name":"Vin-Nek Beauty Salons",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.032804,38.939415,-77.032804,38.939415],
+  "bbox": [
+    -77.032804,
+    38.939415,
+    -77.032804,
+    38.939415
+],
   "geometry": {"coordinates":[-77.032804,38.939415],"type":"Point"}
 }

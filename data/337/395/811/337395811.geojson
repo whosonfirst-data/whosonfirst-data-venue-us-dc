@@ -2,13 +2,14 @@
   "id": 337395811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.026128,38.941687,-77.026128,38.941687",
     "geom:latitude":38.941687,
     "geom:longitude":-77.026128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4120 Kansas Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337395811,
-    "wof:lastmodified":1449027625,
+    "wof:lastmodified":1466426861,
     "wof:name":"Comprehensive Employment Svc",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "village"
     ]
 },
-  "bbox": [-77.026128,38.941687,-77.026128,38.941687],
+  "bbox": [
+    -77.026128,
+    38.941687,
+    -77.026128,
+    38.941687
+],
   "geometry": {"coordinates":[-77.026128,38.941687],"type":"Point"}
 }

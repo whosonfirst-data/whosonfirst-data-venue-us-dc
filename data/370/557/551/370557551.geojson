@@ -2,13 +2,14 @@
   "id": 370557551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.028428,38.940727,-77.028428,38.940727",
     "geom:latitude":38.940727,
     "geom:longitude":-77.028428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1246 Taylor St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370557551,
-    "wof:lastmodified":1449031508,
+    "wof:lastmodified":1466426874,
     "wof:name":"High Road School Of Washington",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "trade"
     ]
 },
-  "bbox": [-77.028428,38.940727,-77.028428,38.940727],
-  "geometry": {"coordinates":[-77.028428,38.940727],"type":"Point"}
+  "bbox": [
+    -77.028428,
+    38.940727,
+    -77.028428,
+    38.940727
+],
+  "geometry": {"coordinates":[-77.02842800000001,38.940727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387063465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.01342,38.974831,-77.01342,38.974831",
     "geom:latitude":38.974831,
     "geom:longitude":-77.01342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6930 Carroll Ave",
     "sg:city":"Takoma Park",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":387063465,
-    "wof:lastmodified":1449056442,
+    "wof:lastmodified":1466426878,
     "wof:name":"Catholic Network-Volunteer",
     "wof:parent_id":85851759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.01342,38.974831,-77.01342,38.974831],
+  "bbox": [
+    -77.01342,
+    38.974831,
+    -77.01342,
+    38.974831
+],
   "geometry": {"coordinates":[-77.01342,38.974831],"type":"Point"}
 }

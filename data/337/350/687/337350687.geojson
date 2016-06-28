@@ -2,13 +2,14 @@
   "id": 337350687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.080309,38.952104,-77.080309,38.952104",
     "geom:latitude":38.952104,
     "geom:longitude":-77.080309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4700 41st St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337350687,
-    "wof:lastmodified":1449027365,
+    "wof:lastmodified":1466426861,
     "wof:name":"P N Hoffman Sales Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.080309,38.952104,-77.080309,38.952104],
+  "bbox": [
+    -77.080309,
+    38.952104,
+    -77.080309,
+    38.952104
+],
   "geometry": {"coordinates":[-77.080309,38.952104],"type":"Point"}
 }

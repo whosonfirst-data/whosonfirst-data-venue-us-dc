@@ -2,13 +2,14 @@
   "id": 370376329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.028069,38.961408,-77.028069,38.961408",
     "geom:latitude":38.961408,
     "geom:longitude":-77.028069,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5802 Georgia Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370376329,
-    "wof:lastmodified":1449030258,
+    "wof:lastmodified":1466426872,
     "wof:name":"Urban Revival Media",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.028069,38.961408,-77.028069,38.961408],
+  "bbox": [
+    -77.028069,
+    38.961408,
+    -77.028069,
+    38.961408
+],
   "geometry": {"coordinates":[-77.028069,38.961408],"type":"Point"}
 }

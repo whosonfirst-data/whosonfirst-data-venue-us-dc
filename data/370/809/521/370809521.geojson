@@ -2,13 +2,14 @@
   "id": 370809521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.964426,38.938791,-76.964426,38.938791",
     "geom:latitude":38.938791,
     "geom:longitude":-76.964426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 31st St",
     "sg:city":"Mount Rainier",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370809521,
-    "wof:lastmodified":1449031864,
+    "wof:lastmodified":1466426876,
     "wof:name":"Karen Kettering",
     "wof:parent_id":85858903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-76.964426,38.938791,-76.964426,38.938791],
+  "bbox": [
+    -76.964426,
+    38.938791,
+    -76.964426,
+    38.938791
+],
   "geometry": {"coordinates":[-76.964426,38.938791],"type":"Point"}
 }

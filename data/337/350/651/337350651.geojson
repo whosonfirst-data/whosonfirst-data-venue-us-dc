@@ -2,13 +2,14 @@
   "id": 337350651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.030862,38.990028,-77.030862,38.990028",
     "geom:latitude":38.990028,
     "geom:longitude":-77.030862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1302 Blair Mill Rd",
     "sg:city":"Silver Spring",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337350651,
-    "wof:lastmodified":1449027365,
+    "wof:lastmodified":1466426861,
     "wof:name":"Center For Self Sufficiency",
     "wof:parent_id":85837643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-77.030862,38.990028,-77.030862,38.990028],
+  "bbox": [
+    -77.030862,
+    38.990028,
+    -77.030862,
+    38.990028
+],
   "geometry": {"coordinates":[-77.030862,38.990028],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337343179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.03964,38.986744,-77.03964,38.986744",
     "geom:latitude":38.986744,
     "geom:longitude":-77.03964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7841 Orchid St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":337343179,
-    "wof:lastmodified":1449027524,
+    "wof:lastmodified":1466426861,
     "wof:name":"Phoenix Real Estate Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.03964,38.986744,-77.03964,38.986744],
-  "geometry": {"coordinates":[-77.03964,38.986744],"type":"Point"}
+  "bbox": [
+    -77.03964,
+    38.986744,
+    -77.03964,
+    38.986744
+],
+  "geometry": {"coordinates":[-77.03964000000001,38.986744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354109443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.002847,38.957178,-77.002847,38.957178",
     "geom:latitude":38.957178,
     "geom:longitude":-77.002847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5644 3rd St NE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354109443,
-    "wof:lastmodified":1449066510,
+    "wof:lastmodified":1466426866,
     "wof:name":"East Coast Printed Sportswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "t"
     ]
 },
-  "bbox": [-77.002847,38.957178,-77.002847,38.957178],
+  "bbox": [
+    -77.002847,
+    38.957178,
+    -77.002847,
+    38.957178
+],
   "geometry": {"coordinates":[-77.002847,38.957178],"type":"Point"}
 }

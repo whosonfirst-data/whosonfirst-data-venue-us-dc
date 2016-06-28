@@ -2,13 +2,14 @@
   "id": 387206077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.954737,38.855868,-76.954737,38.855868",
     "geom:latitude":38.855868,
     "geom:longitude":-76.954737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2419 Fairhill Dr",
     "sg:city":"Suitland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387206077,
-    "wof:lastmodified":1449058694,
+    "wof:lastmodified":1466426879,
     "wof:name":"Fisher Vanghan Corp",
     "wof:parent_id":85825385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-76.954737,38.855868,-76.954737,38.855868],
-  "geometry": {"coordinates":[-76.954737,38.855868],"type":"Point"}
+  "bbox": [
+    -76.954737,
+    38.855868,
+    -76.954737,
+    38.855868
+],
+  "geometry": {"coordinates":[-76.95473699999999,38.855868],"type":"Point"}
 }

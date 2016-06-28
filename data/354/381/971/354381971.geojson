@@ -9,6 +9,7 @@
     "geom:latitude":38.985498,
     "geom:longitude":-77.027987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7814 Eastern Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354381971,
-    "wof:lastmodified":1457209320,
+    "wof:lastmodified":1466426869,
     "wof:name":"Medicine Shoppe Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

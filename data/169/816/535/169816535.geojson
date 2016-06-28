@@ -2,13 +2,14 @@
   "id": 169816535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.061251,38.979595,-77.061251,38.979595",
     "geom:latitude":38.979595,
     "geom:longitude":-77.061251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3286 Chestnut St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169816535,
-    "wof:lastmodified":1449034609,
+    "wof:lastmodified":1466426860,
     "wof:name":"Investment & Insurance Rsrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.061251,38.979595,-77.061251,38.979595],
+  "bbox": [
+    -77.061251,
+    38.979595,
+    -77.061251,
+    38.979595
+],
   "geometry": {"coordinates":[-77.061251,38.979595],"type":"Point"}
 }

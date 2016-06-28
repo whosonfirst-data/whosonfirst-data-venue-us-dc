@@ -2,13 +2,14 @@
   "id": 186000647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.06188,38.960941,-77.06188,38.960941",
     "geom:latitude":38.960941,
     "geom:longitude":-77.06188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3050 Military Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186000647,
-    "wof:lastmodified":1449050832,
+    "wof:lastmodified":1466426856,
     "wof:name":"Lavender Howe & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-77.06188,38.960941,-77.06188,38.960941],
+  "bbox": [
+    -77.06188,
+    38.960941,
+    -77.06188,
+    38.960941
+],
   "geometry": {"coordinates":[-77.06188,38.960941],"type":"Point"}
 }

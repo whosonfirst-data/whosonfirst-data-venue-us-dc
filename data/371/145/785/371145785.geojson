@@ -2,13 +2,14 @@
   "id": 371145785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.015072,38.968632,-77.015072,38.968632",
     "geom:latitude":38.968632,
     "geom:longitude":-77.015072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 2nd Pl NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":371145785,
-    "wof:lastmodified":1449049326,
+    "wof:lastmodified":1466426871,
     "wof:name":"Dynamic Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "stereophonic"
     ]
 },
-  "bbox": [-77.015072,38.968632,-77.015072,38.968632],
+  "bbox": [
+    -77.015072,
+    38.968632,
+    -77.015072,
+    38.968632
+],
   "geometry": {"coordinates":[-77.015072,38.968632],"type":"Point"}
 }

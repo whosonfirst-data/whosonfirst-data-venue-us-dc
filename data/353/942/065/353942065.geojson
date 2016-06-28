@@ -2,13 +2,14 @@
   "id": 353942065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.017174,38.949951,-77.017174,38.949951",
     "geom:latitude":38.949951,
     "geom:longitude":-77.017174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"324 Emerson St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353942065,
-    "wof:lastmodified":1449019428,
+    "wof:lastmodified":1466426865,
     "wof:name":"People Organized With Economic",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-77.017174,38.949951,-77.017174,38.949951],
+  "bbox": [
+    -77.017174,
+    38.949951,
+    -77.017174,
+    38.949951
+],
   "geometry": {"coordinates":[-77.017174,38.949951],"type":"Point"}
 }

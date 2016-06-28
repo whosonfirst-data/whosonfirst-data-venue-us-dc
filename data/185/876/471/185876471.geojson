@@ -2,13 +2,14 @@
   "id": 185876471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.083166,38.955492,-77.083166,38.955492",
     "geom:latitude":38.955492,
     "geom:longitude":-77.083166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5034 Wisconsin Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185876471,
-    "wof:lastmodified":1449006940,
+    "wof:lastmodified":1466426859,
     "wof:name":"Peter Ferris & Levin Realtors",
     "wof:parent_id":85844293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.083166,38.955492,-77.083166,38.955492],
-  "geometry": {"coordinates":[-77.083166,38.955492],"type":"Point"}
+  "bbox": [
+    -77.083166,
+    38.955492,
+    -77.083166,
+    38.955492
+],
+  "geometry": {"coordinates":[-77.08316600000001,38.955492],"type":"Point"}
 }

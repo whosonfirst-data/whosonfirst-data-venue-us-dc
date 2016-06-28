@@ -2,13 +2,14 @@
   "id": 386996271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.098098,38.932885,-77.098098,38.932885",
     "geom:latitude":38.932885,
     "geom:longitude":-77.098098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4911 Loughboro Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":386996271,
-    "wof:lastmodified":1449028701,
+    "wof:lastmodified":1466426878,
     "wof:name":"French Mission To The OAS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.098098,38.932885,-77.098098,38.932885],
-  "geometry": {"coordinates":[-77.098098,38.932885],"type":"Point"}
+  "bbox": [
+    -77.098098,
+    38.932885,
+    -77.098098,
+    38.932885
+],
+  "geometry": {"coordinates":[-77.09809799999999,38.932885],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169699119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.023954,38.955182,-77.023954,38.955182",
     "geom:latitude":38.955182,
     "geom:longitude":-77.023954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Jefferson St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169699119,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1466426857,
     "wof:name":"Bernard A Jefferson",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-77.023954,38.955182,-77.023954,38.955182],
+  "bbox": [
+    -77.023954,
+    38.955182,
+    -77.023954,
+    38.955182
+],
   "geometry": {"coordinates":[-77.023954,38.955182],"type":"Point"}
 }

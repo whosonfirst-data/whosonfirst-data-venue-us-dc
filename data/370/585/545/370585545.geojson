@@ -2,13 +2,14 @@
   "id": 370585545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.910149,38.885045,-76.910149,38.885045",
     "geom:latitude":38.885045,
     "geom:longitude":-76.910149,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6065 Central Ave",
     "sg:city":"Capitol Heights",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":370585545,
-    "wof:lastmodified":1449031330,
+    "wof:lastmodified":1466426874,
     "wof:name":"De' Tavern",
     "wof:parent_id":85838231,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.910149,38.885045,-76.910149,38.885045],
+  "bbox": [
+    -76.910149,
+    38.885045,
+    -76.910149,
+    38.885045
+],
   "geometry": {"coordinates":[-76.910149,38.885045],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354258103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99957,38.84298,-76.99957,38.84298",
     "geom:latitude":38.84298,
     "geom:longitude":-76.99957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 Alabama Ave SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":354258103,
-    "wof:lastmodified":1449067279,
+    "wof:lastmodified":1466426868,
     "wof:name":"Pastors Study",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "court"
     ]
 },
-  "bbox": [-76.99957,38.84298,-76.99957,38.84298],
-  "geometry": {"coordinates":[-76.99957,38.84298],"type":"Point"}
+  "bbox": [
+    -76.99957,
+    38.84298,
+    -76.99957,
+    38.84298
+],
+  "geometry": {"coordinates":[-76.99957000000001,38.84298],"type":"Point"}
 }

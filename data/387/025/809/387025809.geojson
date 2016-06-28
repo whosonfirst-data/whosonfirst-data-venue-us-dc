@@ -2,13 +2,14 @@
   "id": 387025809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.011001,38.952429,-77.011001,38.952429",
     "geom:latitude":38.952429,
     "geom:longitude":-77.011001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Gallatin St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387025809,
-    "wof:lastmodified":1449059299,
+    "wof:lastmodified":1466426878,
     "wof:name":"W Rudolph Bell",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-77.011001,38.952429,-77.011001,38.952429],
-  "geometry": {"coordinates":[-77.011001,38.952429],"type":"Point"}
+  "bbox": [
+    -77.011001,
+    38.952429,
+    -77.011001,
+    38.952429
+],
+  "geometry": {"coordinates":[-77.01100099999999,38.952429],"type":"Point"}
 }

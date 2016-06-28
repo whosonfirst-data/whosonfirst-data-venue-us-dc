@@ -2,13 +2,14 @@
   "id": 185762837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.098408,38.946935,-77.098408,38.946935",
     "geom:latitude":38.946935,
     "geom:longitude":-77.098408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 Massachusetts Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":185762837,
-    "wof:lastmodified":1449007736,
+    "wof:lastmodified":1466426858,
     "wof:name":"Mid Atlantic Podiatry Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.098408,38.946935,-77.098408,38.946935],
-  "geometry": {"coordinates":[-77.098408,38.946935],"type":"Point"}
+  "bbox": [
+    -77.098408,
+    38.946935,
+    -77.098408,
+    38.946935
+],
+  "geometry": {"coordinates":[-77.09840800000001,38.946935],"type":"Point"}
 }

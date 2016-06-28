@@ -2,13 +2,14 @@
   "id": 186203743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99429,38.843597,-76.99429,38.843597",
     "geom:latitude":38.843597,
     "geom:longitude":-76.99429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"741 Alabama Ave SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186203743,
-    "wof:lastmodified":1449051569,
+    "wof:lastmodified":1466426857,
     "wof:name":"C M Management LLC",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.99429,38.843597,-76.99429,38.843597],
-  "geometry": {"coordinates":[-76.99429,38.843597],"type":"Point"}
+  "bbox": [
+    -76.99429,
+    38.843597,
+    -76.99429,
+    38.843597
+],
+  "geometry": {"coordinates":[-76.99429000000001,38.843597],"type":"Point"}
 }

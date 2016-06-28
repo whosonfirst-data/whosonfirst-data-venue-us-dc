@@ -2,13 +2,14 @@
   "id": 370822615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.079547,38.92976,-77.079547,38.92976",
     "geom:latitude":38.92976,
     "geom:longitude":-77.079547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 Cathedral Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370822615,
-    "wof:lastmodified":1449032367,
+    "wof:lastmodified":1466426876,
     "wof:name":"Calvin French",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clergy"
     ]
 },
-  "bbox": [-77.079547,38.92976,-77.079547,38.92976],
-  "geometry": {"coordinates":[-77.079547,38.92976],"type":"Point"}
+  "bbox": [
+    -77.079547,
+    38.92976,
+    -77.079547,
+    38.92976
+],
+  "geometry": {"coordinates":[-77.07954700000001,38.92976],"type":"Point"}
 }

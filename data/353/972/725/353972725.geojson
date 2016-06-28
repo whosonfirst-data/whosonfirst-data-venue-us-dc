@@ -2,13 +2,14 @@
   "id": 353972725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.068635,38.933488,-77.068635,38.933488",
     "geom:latitude":38.933488,
     "geom:longitude":-77.068635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3400 Macomb St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353972725,
-    "wof:lastmodified":1449019541,
+    "wof:lastmodified":1466426866,
     "wof:name":"Erinn Construction",
     "wof:parent_id":85809813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "improvement"
     ]
 },
-  "bbox": [-77.068635,38.933488,-77.068635,38.933488],
+  "bbox": [
+    -77.068635,
+    38.933488,
+    -77.068635,
+    38.933488
+],
   "geometry": {"coordinates":[-77.068635,38.933488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353965979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.027193,38.983355,-77.027193,38.983355",
     "geom:latitude":38.983355,
     "geom:longitude":-77.027193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7709 Alaska Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353965979,
-    "wof:lastmodified":1449020027,
+    "wof:lastmodified":1466426865,
     "wof:name":"David P Hayes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.027193,38.983355,-77.027193,38.983355],
+  "bbox": [
+    -77.027193,
+    38.983355,
+    -77.027193,
+    38.983355
+],
   "geometry": {"coordinates":[-77.027193,38.983355],"type":"Point"}
 }

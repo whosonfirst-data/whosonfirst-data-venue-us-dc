@@ -2,13 +2,14 @@
   "id": 185970553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.954902,38.856044,-76.954902,38.856044",
     "geom:latitude":38.856044,
     "geom:longitude":-76.954902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2427 Fairhill Dr",
     "sg:city":"Suitland",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":185970553,
-    "wof:lastmodified":1449008160,
+    "wof:lastmodified":1466426859,
     "wof:name":"Pearl E Neverson",
     "wof:parent_id":85825385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.954902,38.856044,-76.954902,38.856044],
+  "bbox": [
+    -76.954902,
+    38.856044,
+    -76.954902,
+    38.856044
+],
   "geometry": {"coordinates":[-76.954902,38.856044],"type":"Point"}
 }

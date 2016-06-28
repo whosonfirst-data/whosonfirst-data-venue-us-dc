@@ -2,13 +2,14 @@
   "id": 353741819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.0862,38.95903,-77.0862,38.95903",
     "geom:latitude":38.95903,
     "geom:longitude":-77.0862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4400 Jenifer St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353741819,
-    "wof:lastmodified":1449018379,
+    "wof:lastmodified":1466426864,
     "wof:name":"Thomas J Owen & Son Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.0862,38.95903,-77.0862,38.95903],
-  "geometry": {"coordinates":[-77.0862,38.95903],"type":"Point"}
+  "bbox": [
+    -77.0862,
+    38.95903,
+    -77.0862,
+    38.95903
+],
+  "geometry": {"coordinates":[-77.08620000000001,38.95903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169748975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.073238,38.936073,-77.073238,38.936073",
     "geom:latitude":38.936073,
     "geom:longitude":-77.073238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3404 Idaho Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169748975,
-    "wof:lastmodified":1449035146,
+    "wof:lastmodified":1466426860,
     "wof:name":"Shawn & Charles Salon",
     "wof:parent_id":85869757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.073238,38.936073,-77.073238,38.936073],
+  "bbox": [
+    -77.073238,
+    38.936073,
+    -77.073238,
+    38.936073
+],
   "geometry": {"coordinates":[-77.073238,38.936073],"type":"Point"}
 }

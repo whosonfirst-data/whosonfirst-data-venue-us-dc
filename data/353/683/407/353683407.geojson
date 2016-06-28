@@ -2,13 +2,14 @@
   "id": 353683407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.014552,38.970825,-77.014552,38.970825",
     "geom:latitude":38.970825,
     "geom:longitude":-77.014552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6600 Sandy Spring Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353683407,
-    "wof:lastmodified":1449019194,
+    "wof:lastmodified":1466426863,
     "wof:name":"MLS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.014552,38.970825,-77.014552,38.970825],
-  "geometry": {"coordinates":[-77.014552,38.970825],"type":"Point"}
+  "bbox": [
+    -77.014552,
+    38.970825,
+    -77.014552,
+    38.970825
+],
+  "geometry": {"coordinates":[-77.01455199999999,38.970825],"type":"Point"}
 }

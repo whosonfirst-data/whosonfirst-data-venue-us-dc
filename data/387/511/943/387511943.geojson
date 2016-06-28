@@ -2,13 +2,14 @@
   "id": 387511943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.027202,38.984936,-77.027202,38.984936",
     "geom:latitude":38.984936,
     "geom:longitude":-77.027202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7835 Eastern Ave NW",
     "sg:city":"Silver Spring",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387511943,
-    "wof:lastmodified":1449057857,
+    "wof:lastmodified":1466426881,
     "wof:name":"Washington Fashion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tailor"
     ]
 },
-  "bbox": [-77.027202,38.984936,-77.027202,38.984936],
+  "bbox": [
+    -77.027202,
+    38.984936,
+    -77.027202,
+    38.984936
+],
   "geometry": {"coordinates":[-77.027202,38.984936],"type":"Point"}
 }

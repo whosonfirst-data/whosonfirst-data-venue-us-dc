@@ -2,13 +2,14 @@
   "id": 354353147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.109689,38.935814,-77.109689,38.935814",
     "geom:latitude":38.935814,
     "geom:longitude":-77.109689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5255 Loughboro Rd NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":354353147,
-    "wof:lastmodified":1449066389,
+    "wof:lastmodified":1466426869,
     "wof:name":"Sibley Memorial Hospital",
     "wof:parent_id":85828105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.109689,38.935814,-77.109689,38.935814],
+  "bbox": [
+    -77.109689,
+    38.935814,
+    -77.109689,
+    38.935814
+],
   "geometry": {"coordinates":[-77.109689,38.935814],"type":"Point"}
 }

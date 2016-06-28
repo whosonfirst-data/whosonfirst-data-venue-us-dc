@@ -2,13 +2,14 @@
   "id": 353640923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.090611,38.946286,-77.090611,38.946286",
     "geom:latitude":38.946286,
     "geom:longitude":-77.090611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4417 46th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353640923,
-    "wof:lastmodified":1449019369,
+    "wof:lastmodified":1466426863,
     "wof:name":"Barbara W Franklin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-77.090611,38.946286,-77.090611,38.946286],
+  "bbox": [
+    -77.090611,
+    38.946286,
+    -77.090611,
+    38.946286
+],
   "geometry": {"coordinates":[-77.090611,38.946286],"type":"Point"}
 }

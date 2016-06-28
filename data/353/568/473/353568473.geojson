@@ -9,6 +9,7 @@
     "geom:latitude":38.960091,
     "geom:longitude":-77.085381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Wisconsin Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353568473,
-    "wof:lastmodified":1457209141,
+    "wof:lastmodified":1466426863,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[

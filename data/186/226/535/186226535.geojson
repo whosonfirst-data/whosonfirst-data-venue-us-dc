@@ -2,13 +2,14 @@
   "id": 186226535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.022261,38.968559,-77.022261,38.968559",
     "geom:latitude":38.968559,
     "geom:longitude":-77.022261,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 Underwood St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186226535,
-    "wof:lastmodified":1449052303,
+    "wof:lastmodified":1466426857,
     "wof:name":"Bush's Imports & Exports",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-77.022261,38.968559,-77.022261,38.968559],
+  "bbox": [
+    -77.022261,
+    38.968559,
+    -77.022261,
+    38.968559
+],
   "geometry": {"coordinates":[-77.022261,38.968559],"type":"Point"}
 }

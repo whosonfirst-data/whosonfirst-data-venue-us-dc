@@ -2,13 +2,14 @@
   "id": 186135515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.035981,38.982206,-77.035981,38.982206",
     "geom:latitude":38.982206,
     "geom:longitude":-77.035981,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1428 Iris St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186135515,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466426857,
     "wof:name":"Marvin A Jackson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.035981,38.982206,-77.035981,38.982206],
-  "geometry": {"coordinates":[-77.035981,38.982206],"type":"Point"}
+  "bbox": [
+    -77.035981,
+    38.982206,
+    -77.035981,
+    38.982206
+],
+  "geometry": {"coordinates":[-77.03598100000001,38.982206],"type":"Point"}
 }

@@ -9,6 +9,7 @@
     "geom:latitude":38.955341,
     "geom:longitude":-77.004515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5321 1st Pl NE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":370668171,
-    "wof:lastmodified":1457209730,
+    "wof:lastmodified":1466426875,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

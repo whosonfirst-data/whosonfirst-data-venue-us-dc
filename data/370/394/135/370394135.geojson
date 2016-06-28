@@ -2,13 +2,14 @@
   "id": 370394135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99088,38.832424,-76.99088,38.832424",
     "geom:latitude":38.832424,
     "geom:longitude":-76.99088,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3878 9th St SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370394135,
-    "wof:lastmodified":1449029749,
+    "wof:lastmodified":1466426872,
     "wof:name":"Sigma Property Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-76.99088,38.832424,-76.99088,38.832424],
+  "bbox": [
+    -76.99088,
+    38.832424,
+    -76.99088,
+    38.832424
+],
   "geometry": {"coordinates":[-76.99088,38.832424],"type":"Point"}
 }

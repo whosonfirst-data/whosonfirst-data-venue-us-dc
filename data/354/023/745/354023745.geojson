@@ -2,13 +2,14 @@
   "id": 354023745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.083779,38.948806,-77.083779,38.948806",
     "geom:latitude":38.948806,
     "geom:longitude":-77.083779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 Butterworth Pl NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":354023745,
-    "wof:lastmodified":1449067507,
+    "wof:lastmodified":1466426866,
     "wof:name":"Cargakos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "rental"
     ]
 },
-  "bbox": [-77.083779,38.948806,-77.083779,38.948806],
-  "geometry": {"coordinates":[-77.083779,38.948806],"type":"Point"}
+  "bbox": [
+    -77.083779,
+    38.948806,
+    -77.083779,
+    38.948806
+],
+  "geometry": {"coordinates":[-77.08377900000001,38.948806],"type":"Point"}
 }

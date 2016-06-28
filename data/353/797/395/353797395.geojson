@@ -2,13 +2,14 @@
   "id": 353797395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.022848,38.939729,-77.022848,38.939729",
     "geom:latitude":38.939729,
     "geom:longitude":-77.022848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"728 Shepherd St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353797395,
-    "wof:lastmodified":1449020559,
+    "wof:lastmodified":1466426864,
     "wof:name":"Nich On Line Information",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "retrieval"
     ]
 },
-  "bbox": [-77.022848,38.939729,-77.022848,38.939729],
+  "bbox": [
+    -77.022848,
+    38.939729,
+    -77.022848,
+    38.939729
+],
   "geometry": {"coordinates":[-77.022848,38.939729],"type":"Point"}
 }

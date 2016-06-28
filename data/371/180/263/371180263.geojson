@@ -2,13 +2,14 @@
   "id": 371180263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.023948,38.956046,-77.023948,38.956046",
     "geom:latitude":38.956046,
     "geom:longitude":-77.023948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5427 8th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":371180263,
-    "wof:lastmodified":1449049104,
+    "wof:lastmodified":1466426871,
     "wof:name":"Eco Video",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-77.023948,38.956046,-77.023948,38.956046],
+  "bbox": [
+    -77.023948,
+    38.956046,
+    -77.023948,
+    38.956046
+],
   "geometry": {"coordinates":[-77.023948,38.956046],"type":"Point"}
 }

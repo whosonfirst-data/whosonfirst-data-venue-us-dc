@@ -2,13 +2,14 @@
   "id": 186250243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.026838,38.987397,-77.026838,38.987397",
     "geom:latitude":38.987397,
     "geom:longitude":-77.026838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8060 13th St",
     "sg:city":"Silver Spring",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186250243,
-    "wof:lastmodified":1449051908,
+    "wof:lastmodified":1466426858,
     "wof:name":"Renadas Catering",
     "wof:parent_id":85837643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "catering"
     ]
 },
-  "bbox": [-77.026838,38.987397,-77.026838,38.987397],
+  "bbox": [
+    -77.026838,
+    38.987397,
+    -77.026838,
+    38.987397
+],
   "geometry": {"coordinates":[-77.026838,38.987397],"type":"Point"}
 }

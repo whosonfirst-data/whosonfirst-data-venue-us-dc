@@ -2,13 +2,14 @@
   "id": 169795081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.083706,38.950873,-77.083706,38.950873",
     "geom:latitude":38.950873,
     "geom:longitude":-77.083706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4613 43rd St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169795081,
-    "wof:lastmodified":1449034642,
+    "wof:lastmodified":1466426860,
     "wof:name":"Enterprise Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-77.083706,38.950873,-77.083706,38.950873],
-  "geometry": {"coordinates":[-77.083706,38.950873],"type":"Point"}
+  "bbox": [
+    -77.083706,
+    38.950873,
+    -77.083706,
+    38.950873
+],
+  "geometry": {"coordinates":[-77.08370600000001,38.950873],"type":"Point"}
 }

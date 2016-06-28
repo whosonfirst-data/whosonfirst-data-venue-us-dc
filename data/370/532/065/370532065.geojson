@@ -2,13 +2,14 @@
   "id": 370532065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.988627,38.841894,-76.988627,38.841894",
     "geom:latitude":38.841894,
     "geom:longitude":-76.988627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Congress St SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370532065,
-    "wof:lastmodified":1449030239,
+    "wof:lastmodified":1466426874,
     "wof:name":"Anacostia Electronics",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "audio"
     ]
 },
-  "bbox": [-76.988627,38.841894,-76.988627,38.841894],
-  "geometry": {"coordinates":[-76.988627,38.841894],"type":"Point"}
+  "bbox": [
+    -76.988627,
+    38.841894,
+    -76.988627,
+    38.841894
+],
+  "geometry": {"coordinates":[-76.98862699999999,38.841894],"type":"Point"}
 }

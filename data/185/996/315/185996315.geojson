@@ -2,13 +2,14 @@
   "id": 185996315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.99006,38.831596,-76.99006,38.831596",
     "geom:latitude":38.831596,
     "geom:longitude":-76.99006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4025 9th St SE",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185996315,
-    "wof:lastmodified":1449007046,
+    "wof:lastmodified":1466426859,
     "wof:name":"D C Alternative Learning Acad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "special"
     ]
 },
-  "bbox": [-76.99006,38.831596,-76.99006,38.831596],
+  "bbox": [
+    -76.99006,
+    38.831596,
+    -76.99006,
+    38.831596
+],
   "geometry": {"coordinates":[-76.99006,38.831596],"type":"Point"}
 }

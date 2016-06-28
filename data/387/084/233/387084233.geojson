@@ -2,13 +2,14 @@
   "id": 387084233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.011657,38.951919,-77.011657,38.951919",
     "geom:latitude":38.951919,
     "geom:longitude":-77.011657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5018 1st St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387084233,
-    "wof:lastmodified":1449056523,
+    "wof:lastmodified":1466426878,
     "wof:name":"National Cleaners",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "valet"
     ]
 },
-  "bbox": [-77.011657,38.951919,-77.011657,38.951919],
+  "bbox": [
+    -77.011657,
+    38.951919,
+    -77.011657,
+    38.951919
+],
   "geometry": {"coordinates":[-77.011657,38.951919],"type":"Point"}
 }

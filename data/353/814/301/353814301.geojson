@@ -2,13 +2,14 @@
   "id": 353814301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.090539,38.944704,-77.090539,38.944704",
     "geom:latitude":38.944704,
     "geom:longitude":-77.090539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4227 46th St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":353814301,
-    "wof:lastmodified":1449018714,
+    "wof:lastmodified":1466426864,
     "wof:name":"Shelia Summers",
     "wof:parent_id":85857115,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-77.090539,38.944704,-77.090539,38.944704],
-  "geometry": {"coordinates":[-77.090539,38.944704],"type":"Point"}
+  "bbox": [
+    -77.090539,
+    38.944704,
+    -77.090539,
+    38.944704
+],
+  "geometry": {"coordinates":[-77.09053900000001,38.944704],"type":"Point"}
 }

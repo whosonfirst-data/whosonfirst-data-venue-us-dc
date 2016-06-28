@@ -2,13 +2,14 @@
   "id": 370618637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.028325,38.938486,-77.028325,38.938486",
     "geom:latitude":38.938486,
     "geom:longitude":-77.028325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3815 Kansas Ave NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":370618637,
-    "wof:lastmodified":1449031192,
+    "wof:lastmodified":1466426874,
     "wof:name":"Caribe Home Improvement",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-77.028325,38.938486,-77.028325,38.938486],
+  "bbox": [
+    -77.028325,
+    38.938486,
+    -77.028325,
+    38.938486
+],
   "geometry": {"coordinates":[-77.028325,38.938486],"type":"Point"}
 }

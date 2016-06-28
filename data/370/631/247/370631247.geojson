@@ -2,13 +2,14 @@
   "id": 370631247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.025461,38.972423,-77.025461,38.972423",
     "geom:latitude":38.972423,
     "geom:longitude":-77.025461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Aspen St NW",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370631247,
-    "wof:lastmodified":1449030144,
+    "wof:lastmodified":1466426874,
     "wof:name":"Carolyn Angelo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "worker"
     ]
 },
-  "bbox": [-77.025461,38.972423,-77.025461,38.972423],
-  "geometry": {"coordinates":[-77.025461,38.972423],"type":"Point"}
+  "bbox": [
+    -77.025461,
+    38.972423,
+    -77.025461,
+    38.972423
+],
+  "geometry": {"coordinates":[-77.02546100000001,38.972423],"type":"Point"}
 }
