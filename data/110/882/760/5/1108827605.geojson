@@ -1,0 +1,73 @@
+{
+  "id": 1108827605,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1654 Columbia Road Nw, Washington, USA",
+    "addr:housenumber":1654,
+    "addr:phone":"202-827-4400",
+    "addr:postcode":"20009",
+    "addr:street":"Columbia Road Nw",
+    "addr:website":"https://www.federalistpig.com/",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-77.03863,38.92503,-77.03863,38.92503",
+    "geom:latitude":38.92503,
+    "geom:longitude":-77.03863,
+    "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=bbq"
+    ],
+    "mz:hierarchy_label":1,
+    "mz:hours":{},
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Federalist Pig"
+    ],
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85688741,
+        102191575,
+        85633793,
+        85931779,
+        102084889,
+        85869619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"US",
+    "wof:created":1487886254,
+    "wof:geomhash":"191c8f112ed7ef23a1aefb785ef4cf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "neighbourhood_id":85869619,
+            "region_id":85688741,
+            "venue_id":1108827605
+        }
+    ],
+    "wof:id":1108827605,
+    "wof:lastmodified":1487886340,
+    "wof:name":"Federalist Pig",
+    "wof:parent_id":85869619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-dc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bbq",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -77.03863,
+    38.92503,
+    -77.03863,
+    38.92503
+],
+  "geometry": {"coordinates":[-77.03863,38.92503],"type":"Point"}
+}
