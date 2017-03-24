@@ -2,6 +2,10 @@
   "id": 354176081,
   "type": "Feature",
   "properties": {
+    "addr:full":"3417 Quesada St NW Washington MD 20015",
+    "addr:housenumber":"3417",
+    "addr:postcode":"20015",
+    "addr:street":"Quesada St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354176081,
-    "wof:lastmodified":1466426867,
+    "wof:lastmodified":1472613979,
     "wof:name":"Bike The Sites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 185762837,
   "type": "Feature",
   "properties": {
+    "addr:full":"4910 Massachusetts Ave NW Washington MD 20016",
+    "addr:housenumber":"4910",
+    "addr:postcode":"20016",
+    "addr:street":"Massachusetts Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185762837,
-    "wof:lastmodified":1466426858,
+    "wof:lastmodified":1472613978,
     "wof:name":"Mid Atlantic Podiatry Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 370446951,
   "type": "Feature",
   "properties": {
+    "addr:full":"6250 Chillum Pl NW Washington MD 20011",
+    "addr:housenumber":"6250",
+    "addr:postcode":"20011",
+    "addr:street":"Chillum Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370446951,
-    "wof:lastmodified":1466426873,
+    "wof:lastmodified":1472613980,
     "wof:name":"A & A Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

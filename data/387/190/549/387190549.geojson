@@ -2,6 +2,10 @@
   "id": 387190549,
   "type": "Feature",
   "properties": {
+    "addr:full":"7445 Georgia Ave NW Washington MD 20012",
+    "addr:housenumber":"7445",
+    "addr:postcode":"20012",
+    "addr:street":"Georgia Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387190549,
-    "wof:lastmodified":1466426879,
+    "wof:lastmodified":1472613980,
     "wof:name":"Muntz TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

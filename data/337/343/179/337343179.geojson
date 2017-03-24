@@ -2,6 +2,10 @@
   "id": 337343179,
   "type": "Feature",
   "properties": {
+    "addr:full":"7841 Orchid St NW Washington MD 20012",
+    "addr:housenumber":"7841",
+    "addr:postcode":"20012",
+    "addr:street":"Orchid St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337343179,
-    "wof:lastmodified":1466426861,
+    "wof:lastmodified":1472613979,
     "wof:name":"Phoenix Real Estate Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

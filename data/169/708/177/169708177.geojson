@@ -2,6 +2,10 @@
   "id": 169708177,
   "type": "Feature",
   "properties": {
+    "addr:full":"4354 Warren St NW Washington MD 20016",
+    "addr:housenumber":"4354",
+    "addr:postcode":"20016",
+    "addr:street":"Warren St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":169708177,
-    "wof:lastmodified":1466426859,
+    "wof:lastmodified":1472613978,
     "wof:name":"Microeconomic Applications Inc",
     "wof:parent_id":85857115,
     "wof:placetype":"venue",

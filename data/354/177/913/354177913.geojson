@@ -2,6 +2,10 @@
   "id": 354177913,
   "type": "Feature",
   "properties": {
+    "addr:full":"6896 Laurel St NW Washington MD 20012",
+    "addr:housenumber":"6896",
+    "addr:postcode":"20012",
+    "addr:street":"Laurel St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":354177913,
-    "wof:lastmodified":1466426867,
+    "wof:lastmodified":1472613979,
     "wof:name":"National Association For Lay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

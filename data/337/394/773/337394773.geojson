@@ -2,6 +2,10 @@
   "id": 337394773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4233 Barnaby Rd SE Washington MD 20032",
+    "addr:housenumber":"4233",
+    "addr:postcode":"20032",
+    "addr:street":"Barnaby Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337394773,
-    "wof:lastmodified":1466426861,
+    "wof:lastmodified":1472613979,
     "wof:name":"Prepaid Legal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

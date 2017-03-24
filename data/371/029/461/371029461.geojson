@@ -2,6 +2,10 @@
   "id": 371029461,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 10th Pl SE Washington MD 20032",
+    "addr:housenumber":"3311",
+    "addr:postcode":"20032",
+    "addr:street":"10Th Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371029461,
-    "wof:lastmodified":1466426870,
+    "wof:lastmodified":1472613978,
     "wof:name":"Cathlin's Closet & Accessories",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",

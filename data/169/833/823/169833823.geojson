@@ -2,6 +2,10 @@
   "id": 169833823,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 S Capitol St SW Washington MD 20032",
+    "addr:housenumber":"4001",
+    "addr:postcode":"20032",
+    "addr:street":"S Capitol St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169833823,
-    "wof:lastmodified":1466426860,
+    "wof:lastmodified":1472613978,
     "wof:name":"Washington Income Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

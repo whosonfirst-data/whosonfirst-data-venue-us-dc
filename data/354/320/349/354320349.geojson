@@ -2,6 +2,10 @@
   "id": 354320349,
   "type": "Feature",
   "properties": {
+    "addr:full":"5312 Connecticut Ave NW Washington MD 20015",
+    "addr:housenumber":"5312",
+    "addr:postcode":"20015",
+    "addr:street":"Connecticut Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354320349,
-    "wof:lastmodified":1466426868,
+    "wof:lastmodified":1472613979,
     "wof:name":"Montessori School-Chevy Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

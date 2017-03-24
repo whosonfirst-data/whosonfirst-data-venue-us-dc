@@ -2,6 +2,10 @@
   "id": 387206077,
   "type": "Feature",
   "properties": {
+    "addr:full":"2419 Fairhill Dr Suitland MD 20746",
+    "addr:housenumber":"2419",
+    "addr:postcode":"20746",
+    "addr:street":"Fairhill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387206077,
-    "wof:lastmodified":1466426879,
+    "wof:lastmodified":1472613980,
     "wof:name":"Fisher Vanghan Corp",
     "wof:parent_id":85825385,
     "wof:placetype":"venue",

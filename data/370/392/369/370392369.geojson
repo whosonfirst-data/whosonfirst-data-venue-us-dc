@@ -2,6 +2,10 @@
   "id": 370392369,
   "type": "Feature",
   "properties": {
+    "addr:full":"1602 Roxanna Rd NW Washington MD 20012",
+    "addr:housenumber":"1602",
+    "addr:postcode":"20012",
+    "addr:street":"Roxanna Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370392369,
-    "wof:lastmodified":1466426872,
+    "wof:lastmodified":1472613980,
     "wof:name":"Lipscomb Realty Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

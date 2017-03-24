@@ -2,6 +2,10 @@
   "id": 370532065,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Congress St SE Washington MD 20032",
+    "addr:housenumber":"1208",
+    "addr:postcode":"20032",
+    "addr:street":"Congress St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370532065,
-    "wof:lastmodified":1466426874,
+    "wof:lastmodified":1472613980,
     "wof:name":"Anacostia Electronics",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",

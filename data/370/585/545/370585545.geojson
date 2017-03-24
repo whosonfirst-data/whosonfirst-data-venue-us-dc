@@ -2,6 +2,10 @@
   "id": 370585545,
   "type": "Feature",
   "properties": {
+    "addr:full":"6065 Central Ave Capitol Heights MD 20743",
+    "addr:housenumber":"6065",
+    "addr:postcode":"20743",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":370585545,
-    "wof:lastmodified":1466426874,
+    "wof:lastmodified":1472613980,
     "wof:name":"De' Tavern",
     "wof:parent_id":85838231,
     "wof:placetype":"venue",

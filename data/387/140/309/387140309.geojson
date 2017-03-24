@@ -2,6 +2,10 @@
   "id": 387140309,
   "type": "Feature",
   "properties": {
+    "addr:full":"7826 Eastern Ave NW Washington MD 20910",
+    "addr:housenumber":"7826",
+    "addr:postcode":"20910",
+    "addr:street":"Eastern Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387140309,
-    "wof:lastmodified":1466426879,
+    "wof:lastmodified":1472613980,
     "wof:name":"Unicorn Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

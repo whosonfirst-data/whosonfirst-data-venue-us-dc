@@ -2,6 +2,10 @@
   "id": 370947975,
   "type": "Feature",
   "properties": {
+    "addr:full":"5236 44th St NW Washington MD 20016",
+    "addr:housenumber":"5236",
+    "addr:postcode":"20016",
+    "addr:street":"44Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370947975,
-    "wof:lastmodified":1466426877,
+    "wof:lastmodified":1472613980,
     "wof:name":"Grossmueller's Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

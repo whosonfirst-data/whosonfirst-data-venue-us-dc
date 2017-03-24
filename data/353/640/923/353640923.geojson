@@ -2,6 +2,10 @@
   "id": 353640923,
   "type": "Feature",
   "properties": {
+    "addr:full":"4417 46th St NW Washington MD 20016",
+    "addr:housenumber":"4417",
+    "addr:postcode":"20016",
+    "addr:street":"46Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353640923,
-    "wof:lastmodified":1466426863,
+    "wof:lastmodified":1472613979,
     "wof:name":"Barbara W Franklin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 370356189,
   "type": "Feature",
   "properties": {
+    "addr:full":"4439 Springdale St NW Washington MD 20016",
+    "addr:housenumber":"4439",
+    "addr:postcode":"20016",
+    "addr:street":"Springdale St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":370356189,
-    "wof:lastmodified":1466426872,
+    "wof:lastmodified":1472613981,
     "wof:name":"Klein Entertainment",
     "wof:parent_id":85857115,
     "wof:placetype":"venue",

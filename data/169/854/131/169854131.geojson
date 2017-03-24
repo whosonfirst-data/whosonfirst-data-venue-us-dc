@@ -2,6 +2,10 @@
   "id": 169854131,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 Oglethorpe St NW Washington MD 20011",
+    "addr:housenumber":"518",
+    "addr:postcode":"20011",
+    "addr:street":"Oglethorpe St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169854131,
-    "wof:lastmodified":1466426860,
+    "wof:lastmodified":1472613978,
     "wof:name":"As Is Records Inc",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",

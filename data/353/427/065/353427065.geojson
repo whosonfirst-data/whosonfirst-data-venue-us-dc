@@ -2,6 +2,10 @@
   "id": 353427065,
   "type": "Feature",
   "properties": {
+    "addr:full":"3204 Brothers Pl SE Washington MD 20032",
+    "addr:housenumber":"3204",
+    "addr:postcode":"20032",
+    "addr:street":"Brothers Pl Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353427065,
-    "wof:lastmodified":1466426861,
+    "wof:lastmodified":1472613979,
     "wof:name":"Harvey Memorial Baptist Church",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",

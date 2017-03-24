@@ -2,6 +2,10 @@
   "id": 186000647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3050 Military Rd NW Washington MD 20015",
+    "addr:housenumber":"3050",
+    "addr:postcode":"20015",
+    "addr:street":"Military Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":186000647,
-    "wof:lastmodified":1466426856,
+    "wof:lastmodified":1472613978,
     "wof:name":"Lavender Howe & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 337418071,
   "type": "Feature",
   "properties": {
+    "addr:full":"3613 Norton Pl NW Washington MD 20016",
+    "addr:housenumber":"3613",
+    "addr:postcode":"20016",
+    "addr:street":"Norton Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337418071,
-    "wof:lastmodified":1466426862,
+    "wof:lastmodified":1472613979,
     "wof:name":"James Hellmuth",
     "wof:parent_id":85869757,
     "wof:placetype":"venue",

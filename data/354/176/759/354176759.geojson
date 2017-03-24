@@ -2,6 +2,10 @@
   "id": 354176759,
   "type": "Feature",
   "properties": {
+    "addr:full":"7716 Georgia Ave NW Washington MD 20012",
+    "addr:housenumber":"7716",
+    "addr:postcode":"20012",
+    "addr:street":"Georgia Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":354176759,
-    "wof:lastmodified":1466426867,
+    "wof:lastmodified":1472613979,
     "wof:name":"Catherine D Gibbs Barber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

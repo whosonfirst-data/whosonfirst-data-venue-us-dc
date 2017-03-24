@@ -2,6 +2,10 @@
   "id": 354246095,
   "type": "Feature",
   "properties": {
+    "addr:full":"6406 Western Ave Chevy Chase MD 20815",
+    "addr:housenumber":"6406",
+    "addr:postcode":"20815",
+    "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354246095,
-    "wof:lastmodified":1466426868,
+    "wof:lastmodified":1472613979,
     "wof:name":"On Trial Assoc",
     "wof:parent_id":85804537,
     "wof:placetype":"venue",

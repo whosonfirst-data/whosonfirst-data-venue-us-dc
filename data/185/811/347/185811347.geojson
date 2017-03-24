@@ -2,6 +2,10 @@
   "id": 185811347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 Southern Ave SE Washington MD 20032",
+    "addr:housenumber":"1212",
+    "addr:postcode":"20032",
+    "addr:street":"Southern Ave Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":185811347,
-    "wof:lastmodified":1466426858,
+    "wof:lastmodified":1472613978,
     "wof:name":"Southern Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

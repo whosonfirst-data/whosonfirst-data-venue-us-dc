@@ -2,6 +2,10 @@
   "id": 354147437,
   "type": "Feature",
   "properties": {
+    "addr:full":"2851 University Ter NW Washington MD 20016",
+    "addr:housenumber":"2851",
+    "addr:postcode":"20016",
+    "addr:street":"University Ter Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354147437,
-    "wof:lastmodified":1466426867,
+    "wof:lastmodified":1472613979,
     "wof:name":"Wallace Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

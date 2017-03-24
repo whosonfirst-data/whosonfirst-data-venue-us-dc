@@ -2,6 +2,10 @@
   "id": 370557551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1246 Taylor St NW Washington MD 20011",
+    "addr:housenumber":"1246",
+    "addr:postcode":"20011",
+    "addr:street":"Taylor St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370557551,
-    "wof:lastmodified":1466426874,
+    "wof:lastmodified":1472613980,
     "wof:name":"High Road School Of Washington",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",

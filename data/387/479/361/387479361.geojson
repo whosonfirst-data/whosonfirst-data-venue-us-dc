@@ -2,6 +2,10 @@
   "id": 387479361,
   "type": "Feature",
   "properties": {
+    "addr:full":"6701 Georgia Ave NW Washington MD 20012",
+    "addr:housenumber":"6701",
+    "addr:postcode":"20012",
+    "addr:street":"Georgia Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387479361,
-    "wof:lastmodified":1466426881,
+    "wof:lastmodified":1472613979,
     "wof:name":"Financial Management & Report",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

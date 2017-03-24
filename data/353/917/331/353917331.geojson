@@ -2,6 +2,10 @@
   "id": 353917331,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 Delafield Pl NW Washington MD 20011",
+    "addr:housenumber":"337",
+    "addr:postcode":"20011",
+    "addr:street":"Delafield Pl Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":353917331,
-    "wof:lastmodified":1466426865,
+    "wof:lastmodified":1472613979,
     "wof:name":"Comprehensive Care II Inc",
     "wof:parent_id":85841475,
     "wof:placetype":"venue",

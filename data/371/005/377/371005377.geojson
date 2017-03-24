@@ -2,6 +2,10 @@
   "id": 371005377,
   "type": "Feature",
   "properties": {
+    "addr:full":"5481 31st St NW Washington MD 20015",
+    "addr:housenumber":"5481",
+    "addr:postcode":"20015",
+    "addr:street":"31St St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371005377,
-    "wof:lastmodified":1466426869,
+    "wof:lastmodified":1472613978,
     "wof:name":"ASL Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

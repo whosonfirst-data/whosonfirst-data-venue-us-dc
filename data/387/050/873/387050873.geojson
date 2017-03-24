@@ -2,6 +2,10 @@
   "id": 387050873,
   "type": "Feature",
   "properties": {
+    "addr:full":"5324 39th St NW Washington MD 20015",
+    "addr:housenumber":"5324",
+    "addr:postcode":"20015",
+    "addr:street":"39Th St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387050873,
-    "wof:lastmodified":1466426878,
+    "wof:lastmodified":1472613979,
     "wof:name":"Christine W Lynn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 386930113,
   "type": "Feature",
   "properties": {
+    "addr:full":"8040 13th St Silver Spring MD 20910",
+    "addr:housenumber":"8040",
+    "addr:postcode":"20910",
+    "addr:street":"13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":386930113,
-    "wof:lastmodified":1466426877,
+    "wof:lastmodified":1472613978,
     "wof:name":"Days Inn",
     "wof:parent_id":85837643,
     "wof:placetype":"venue",

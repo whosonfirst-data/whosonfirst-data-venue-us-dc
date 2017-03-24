@@ -2,6 +2,10 @@
   "id": 169816535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3286 Chestnut St NW Washington MD 20015",
+    "addr:housenumber":"3286",
+    "addr:postcode":"20015",
+    "addr:street":"Chestnut St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169816535,
-    "wof:lastmodified":1466426860,
+    "wof:lastmodified":1472613978,
     "wof:name":"Investment & Insurance Rsrc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

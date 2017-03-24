@@ -2,6 +2,10 @@
   "id": 354345509,
   "type": "Feature",
   "properties": {
+    "addr:full":"3635 6th St SE Washington MD 20032",
+    "addr:housenumber":"3635",
+    "addr:postcode":"20032",
+    "addr:street":"6Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354345509,
-    "wof:lastmodified":1466426869,
+    "wof:lastmodified":1472613979,
     "wof:name":"Make A Difference Ctr",
     "wof:parent_id":85812073,
     "wof:placetype":"venue",

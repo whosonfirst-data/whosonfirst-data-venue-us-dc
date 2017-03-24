@@ -2,6 +2,10 @@
   "id": 387155235,
   "type": "Feature",
   "properties": {
+    "addr:full":"640 Atlantic St SE Washington MD 20032",
+    "addr:housenumber":"640",
+    "addr:postcode":"20032",
+    "addr:street":"Atlantic St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387155235,
-    "wof:lastmodified":1466426879,
+    "wof:lastmodified":1472613979,
     "wof:name":"Highland Dwellings Residents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

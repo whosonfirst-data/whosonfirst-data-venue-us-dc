@@ -2,6 +2,10 @@
   "id": 353660761,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 Georgia Ave NW Washington MD 20011",
+    "addr:housenumber":"6100",
+    "addr:postcode":"20011",
+    "addr:street":"Georgia Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353660761,
-    "wof:lastmodified":1466426863,
+    "wof:lastmodified":1472613979,
     "wof:name":"Justice For Our Neighbors",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",

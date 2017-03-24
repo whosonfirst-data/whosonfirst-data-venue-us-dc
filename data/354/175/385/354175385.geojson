@@ -2,6 +2,10 @@
   "id": 354175385,
   "type": "Feature",
   "properties": {
+    "addr:full":"4930 Wisconsin Ave NW Washington MD 20016",
+    "addr:housenumber":"4930",
+    "addr:postcode":"20016",
+    "addr:street":"Wisconsin Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354175385,
-    "wof:lastmodified":1466426867,
+    "wof:lastmodified":1472613979,
     "wof:name":"Tenley Sew Vac",
     "wof:parent_id":85844293,
     "wof:placetype":"venue",

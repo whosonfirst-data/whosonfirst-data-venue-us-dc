@@ -2,6 +2,10 @@
   "id": 186077293,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Wisconsin Ave NW Washington MD 20016",
+    "addr:housenumber":"4801",
+    "addr:postcode":"20016",
+    "addr:street":"Wisconsin Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":186077293,
-    "wof:lastmodified":1466426856,
+    "wof:lastmodified":1472613978,
     "wof:name":"Hair Solutions Of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 371043959,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Wisconsin Cir Chevy Chase MD 20815",
+    "addr:housenumber":"",
+    "addr:postcode":"20815",
+    "addr:street":"35 Wisconsin Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371043959,
-    "wof:lastmodified":1466426870,
+    "wof:lastmodified":1472613978,
     "wof:name":"Medical First",
     "wof:parent_id":85820743,
     "wof:placetype":"venue",

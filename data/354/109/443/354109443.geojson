@@ -2,6 +2,10 @@
   "id": 354109443,
   "type": "Feature",
   "properties": {
+    "addr:full":"5644 3rd St NE Washington MD 20011",
+    "addr:housenumber":"5644",
+    "addr:postcode":"20011",
+    "addr:street":"3Rd St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354109443,
-    "wof:lastmodified":1466426866,
+    "wof:lastmodified":1472613978,
     "wof:name":"East Coast Printed Sportswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

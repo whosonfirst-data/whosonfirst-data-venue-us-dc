@@ -2,6 +2,10 @@
   "id": 353819473,
   "type": "Feature",
   "properties": {
+    "addr:full":"5333 Wisconsin Ave NW Washington MD 20015",
+    "addr:housenumber":"5333",
+    "addr:postcode":"20015",
+    "addr:street":"Wisconsin Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353819473,
-    "wof:lastmodified":1466426864,
+    "wof:lastmodified":1472613980,
     "wof:name":"Borders Books Music & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

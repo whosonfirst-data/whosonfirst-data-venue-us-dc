@@ -2,6 +2,10 @@
   "id": 370450095,
   "type": "Feature",
   "properties": {
+    "addr:full":"3921 Military Rd NW Washington MD 20015",
+    "addr:housenumber":"3921",
+    "addr:postcode":"20015",
+    "addr:street":"Military Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370450095,
-    "wof:lastmodified":1466426873,
+    "wof:lastmodified":1472613980,
     "wof:name":"Susanne Mc Coy Assocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

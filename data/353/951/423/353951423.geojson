@@ -2,6 +2,10 @@
   "id": 353951423,
   "type": "Feature",
   "properties": {
+    "addr:full":"4545 42nd St NW Washington MD 20016",
+    "addr:housenumber":"4545",
+    "addr:postcode":"20016",
+    "addr:street":"42Nd St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353951423,
-    "wof:lastmodified":1466426865,
+    "wof:lastmodified":1472613979,
     "wof:name":"Global Mosaic Inc",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 353943195,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Fort Totten Dr NE Washington MD 20011",
+    "addr:housenumber":"4900",
+    "addr:postcode":"20011",
+    "addr:street":"Fort Totten Dr Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353943195,
-    "wof:lastmodified":1466426865,
+    "wof:lastmodified":1472613979,
     "wof:name":"Northwood Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

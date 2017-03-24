@@ -2,6 +2,10 @@
   "id": 387511943,
   "type": "Feature",
   "properties": {
+    "addr:full":"7835 Eastern Ave NW Silver Spring MD 20910",
+    "addr:housenumber":"7835",
+    "addr:postcode":"20910",
+    "addr:street":"Eastern Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387511943,
-    "wof:lastmodified":1466426881,
+    "wof:lastmodified":1472613979,
     "wof:name":"Washington Fashion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

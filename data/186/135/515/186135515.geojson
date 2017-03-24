@@ -2,6 +2,10 @@
   "id": 186135515,
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 Iris St NW Washington MD 20012",
+    "addr:housenumber":"1428",
+    "addr:postcode":"20012",
+    "addr:street":"Iris St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":186135515,
-    "wof:lastmodified":1466426857,
+    "wof:lastmodified":1472613979,
     "wof:name":"Marvin A Jackson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

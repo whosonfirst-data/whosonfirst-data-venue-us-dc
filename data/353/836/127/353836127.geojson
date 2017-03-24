@@ -2,6 +2,10 @@
   "id": 353836127,
   "type": "Feature",
   "properties": {
+    "addr:full":"4435 Wisconsin Ave NW Washington MD 20016",
+    "addr:housenumber":"4435",
+    "addr:postcode":"20016",
+    "addr:street":"Wisconsin Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":353836127,
-    "wof:lastmodified":1466426865,
+    "wof:lastmodified":1472613979,
     "wof:name":"Capitol City Properties Inc",
     "wof:parent_id":85851929,
     "wof:placetype":"venue",

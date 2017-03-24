@@ -2,6 +2,10 @@
   "id": 370644355,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Macarthur Blvd NW Washington MD 20016",
+    "addr:housenumber":"5500",
+    "addr:postcode":"20016",
+    "addr:street":"Macarthur Blvd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370644355,
-    "wof:lastmodified":1466426874,
+    "wof:lastmodified":1472613980,
     "wof:name":"Gosnell Commercial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

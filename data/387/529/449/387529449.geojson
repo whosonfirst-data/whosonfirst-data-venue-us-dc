@@ -2,6 +2,10 @@
   "id": 387529449,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Ingraham St NE Washington MD 20011",
+    "addr:housenumber":"120",
+    "addr:postcode":"20011",
+    "addr:street":"Ingraham St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387529449,
-    "wof:lastmodified":1466426881,
+    "wof:lastmodified":1472613980,
     "wof:name":"MCI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
