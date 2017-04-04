@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.082039,38.948808,-77.082039,38.948808",
     "geom:latitude":38.948808,
     "geom:longitude":-77.082039,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85851929,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"e403c14bbd9bc56f5a019c60afe90a27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85851929,
             "region_id":85688741,
             "venue_id":370216969
         }
     ],
     "wof:id":370216969,
-    "wof:lastmodified":1472613981,
+    "wof:lastmodified":1491273541,
     "wof:name":"Underground Fitness LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

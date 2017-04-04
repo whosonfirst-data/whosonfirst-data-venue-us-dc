@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.021341,38.974621,-77.021341,38.974621",
     "geom:latitude":38.974621,
     "geom:longitude":-77.021341,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724021,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"dcf1bd05da5a43587648bff315d5bdd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724021,
             "region_id":85688741,
             "venue_id":370523569
         }
     ],
     "wof:id":370523569,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273490,
     "wof:name":"Tech Knowledge Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

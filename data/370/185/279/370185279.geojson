@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.034686,38.970796,-77.034686,38.970796",
     "geom:latitude":38.970796,
     "geom:longitude":-77.034686,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85807587,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85807587
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"f17af177c8d046ec14708f4cb44b8601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85807587,
             "region_id":85688741,
             "venue_id":370185279
         }
     ],
     "wof:id":370185279,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273469,
     "wof:name":"BRS Assoc",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.074384,38.962973,-77.074384,38.962973",
     "geom:latitude":38.962973,
     "geom:longitude":-77.074384,
@@ -29,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723873,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"f3eae6b669cfa20eedfbaa83627507f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
             "region_id":85688741,
             "venue_id":371064315
         }
     ],
     "wof:id":371064315,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273480,
     "wof:name":"International Fidelity Ins",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

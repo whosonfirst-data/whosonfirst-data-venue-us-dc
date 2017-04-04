@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.027697,38.965849,-77.027697,38.965849",
     "geom:latitude":38.965849,
     "geom:longitude":-77.027697,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85807587,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85807587
+        85688741
     ],
     "wof:brand_id":420574089,
     "wof:breaches":[],
@@ -48,17 +51,18 @@
     "wof:geomhash":"3bf34bcb43e7ce956be25134a7e20da5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85807587,
             "region_id":85688741,
             "venue_id":387272289
         }
     ],
     "wof:id":387272289,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273473,
     "wof:name":"Liberty Tax Svc",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",

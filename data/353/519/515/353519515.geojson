@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.988641,38.833507,-76.988641,38.833507",
     "geom:latitude":38.833507,
     "geom:longitude":-76.988641,
@@ -29,10 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724029,
+        102191575,
+        1108723665,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ded08da0952ff5af8333e8b888c1c232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
             "region_id":85688741,
             "venue_id":353519515
         }
     ],
     "wof:id":353519515,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1491273479,
     "wof:name":"National Hand Dance Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

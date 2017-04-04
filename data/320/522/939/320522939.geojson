@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.006859,38.943567,-77.006859,38.943567",
     "geom:latitude":38.943567,
     "geom:longitude":-77.006859,
@@ -35,11 +36,13 @@
     "sg:website":"www.tetonspringslodge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510955,
+        102191575,
+        1108723667,
         85633793,
         85931779,
         102084889,
-        85853517
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"b7d7d5fb49e5ee78dca839830b55099c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85853517,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":420510955,
             "region_id":85688741,
             "venue_id":320522939
         }
     ],
     "wof:id":320522939,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273504,
     "wof:name":"Teton Springs Lodge & Spa",
-    "wof:parent_id":85853517,
+    "wof:parent_id":420510955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

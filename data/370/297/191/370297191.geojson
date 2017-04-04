@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.987158,38.843511,-76.987158,38.843511",
     "geom:latitude":38.843511,
     "geom:longitude":-76.987158,
@@ -32,10 +33,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85848445,
+        102191575,
+        1108723665,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741,
+        85688501,
+        85949949,
+        102082191,
+        420522803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +53,29 @@
     "wof:geomhash":"e93bcab0f1d5e12462ac7d877d8ca47e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":85848445,
             "region_id":85688741,
+            "venue_id":370297191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082191,
+            "locality_id":85949949,
+            "neighbourhood_id":420522803,
+            "region_id":85688501,
             "venue_id":370297191
         }
     ],
     "wof:id":370297191,
-    "wof:lastmodified":1472613981,
+    "wof:lastmodified":1491273463,
     "wof:name":"Us Dream Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

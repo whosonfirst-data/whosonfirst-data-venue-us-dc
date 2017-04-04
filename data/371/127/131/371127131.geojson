@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090013,38.947173,-77.090013,38.947173",
     "geom:latitude":38.947173,
     "geom:longitude":-77.090013,
@@ -33,11 +34,13 @@
     "sg:website":"www.bethesdafleamarket.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510957,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85857115
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"e736b7a0e9f2b7cade63f3c46db6603b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85857115,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
             "region_id":85688741,
             "venue_id":371127131
         }
     ],
     "wof:id":371127131,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273527,
     "wof:name":"Bonfils & Assoc Inc",
-    "wof:parent_id":85857115,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

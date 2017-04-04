@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085481,38.94702,-77.085481,38.94702",
     "geom:latitude":38.94702,
     "geom:longitude":-77.085481,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510957,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"9e105afa5b0a6a29b60d3f467842c682",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
             "region_id":85688741,
             "venue_id":370402267
         }
     ],
     "wof:id":370402267,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273449,
     "wof:name":"Eva B Mc Cullars MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

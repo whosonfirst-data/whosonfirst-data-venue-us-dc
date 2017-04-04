@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090539,38.944704,-77.090539,38.944704",
     "geom:latitude":38.944704,
     "geom:longitude":-77.090539,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510957,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85857115
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"38bba3788ea3c1c47d0e1570a7038b86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85857115,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
             "region_id":85688741,
             "venue_id":353814301
         }
     ],
     "wof:id":353814301,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273536,
     "wof:name":"Shelia Summers",
-    "wof:parent_id":85857115,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

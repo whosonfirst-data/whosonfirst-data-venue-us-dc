@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.027679,38.966114,-77.027679,38.966114",
     "geom:latitude":38.966114,
     "geom:longitude":-77.027679,
@@ -29,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85807587,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85807587
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"072810401da90cf3eab6da36c40dd483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85807587,
             "region_id":85688741,
             "venue_id":354377193
         }
     ],
     "wof:id":354377193,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273471,
     "wof:name":"Carolyn's Beauty Salon",
     "wof:parent_id":85807587,
     "wof:placetype":"venue",

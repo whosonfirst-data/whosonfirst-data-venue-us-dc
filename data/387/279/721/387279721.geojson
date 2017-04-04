@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072504,38.933288,-77.072504,38.933288",
     "geom:latitude":38.933288,
     "geom:longitude":-77.072504,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85809813,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85809813
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"8796c3205794b3e89a1df46c0af2e4e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85809813,
             "region_id":85688741,
             "venue_id":387279721
         }
     ],
     "wof:id":387279721,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273480,
     "wof:name":"Harvey's Custom Cleaners",
     "wof:parent_id":85809813,
     "wof:placetype":"venue",

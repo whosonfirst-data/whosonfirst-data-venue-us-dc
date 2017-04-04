@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.028113,38.96091,-77.028113,38.96091",
     "geom:latitude":38.96091,
     "geom:longitude":-77.028113,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85869835,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869835
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"6bfa028282a1c719b841269e3a67b14d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85869835,
             "region_id":85688741,
             "venue_id":370662863
         }
     ],
     "wof:id":370662863,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273469,
     "wof:name":"Prime Construction LLC",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",

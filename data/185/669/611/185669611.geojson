@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.097644,38.940245,-77.097644,38.940245",
     "geom:latitude":38.940245,
     "geom:longitude":-77.097644,
@@ -33,10 +34,13 @@
     "sg:website":"www.durrinproductions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510975,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"991867f1fbc149b2c55b4effc095516d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510975,
             "region_id":85688741,
             "venue_id":185669611
         }
     ],
     "wof:id":185669611,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273460,
     "wof:name":"Durrin Productions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

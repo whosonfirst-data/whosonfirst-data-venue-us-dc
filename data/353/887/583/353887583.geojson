@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.011422,38.956512,-77.011422,38.956512",
     "geom:latitude":38.956512,
     "geom:longitude":-77.011422,
@@ -29,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420781739,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85807587
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"7e013b74ee5350128f912163633589ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85807587,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781739,
             "region_id":85688741,
             "venue_id":353887583
         }
     ],
     "wof:id":353887583,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1491273477,
     "wof:name":"By Grace Through Faith Inc",
-    "wof:parent_id":85807587,
+    "wof:parent_id":420781739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.083706,38.950873,-77.083706,38.950873",
     "geom:latitude":38.950873,
     "geom:longitude":-77.083706,
@@ -34,10 +35,13 @@
     "sg:website":"www.eri-la.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510957,
+        102191575,
+        1108723661,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"e145315a23a351eb3a56106063d721ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
             "region_id":85688741,
             "venue_id":169795081
         }
     ],
     "wof:id":169795081,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273526,
     "wof:name":"Enterprise Research",
-    "wof:parent_id":-1,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

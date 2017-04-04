@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.01352,38.962775,-77.01352,38.962775",
     "geom:latitude":38.962775,
     "geom:longitude":-77.01352,
@@ -29,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420781739,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85807587
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"5720cabb1de0ce985d929b9b75f4147c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85807587,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781739,
             "region_id":85688741,
             "venue_id":186140109
         }
     ],
     "wof:id":186140109,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273491,
     "wof:name":"Us Mortgage Investment Network",
-    "wof:parent_id":85807587,
+    "wof:parent_id":420781739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

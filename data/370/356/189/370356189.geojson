@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.086969,38.94133,-77.086969,38.94133",
     "geom:latitude":38.94133,
     "geom:longitude":-77.086969,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510957,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85857115
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"10823e82127ea1ccc25d11adf301891f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85857115,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510957,
             "region_id":85688741,
             "venue_id":370356189
         }
     ],
     "wof:id":370356189,
-    "wof:lastmodified":1472613981,
+    "wof:lastmodified":1491273449,
     "wof:name":"Klein Entertainment",
-    "wof:parent_id":85857115,
+    "wof:parent_id":420510957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

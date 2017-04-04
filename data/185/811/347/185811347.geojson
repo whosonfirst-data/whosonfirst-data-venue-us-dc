@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.985746,38.833425,-76.985746,38.833425",
     "geom:latitude":38.833425,
     "geom:longitude":-76.985746,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724029,
+        102191575,
+        1108723665,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"1932c7090ac2d7a5a3e7879100433a56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723665,
+            "neighbourhood_id":1108724029,
             "region_id":85688741,
             "venue_id":185811347
         }
     ],
     "wof:id":185811347,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273460,
     "wof:name":"Southern Ridge Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

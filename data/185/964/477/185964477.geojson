@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.002654,38.956981,-77.002654,38.956981",
     "geom:latitude":38.956981,
     "geom:longitude":-77.002654,
@@ -34,10 +35,13 @@
     "sg:website":"www.barneyneighborhoodhouse.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723997,
+        102191575,
+        1108723667,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"498929c21f430f8baba97ce6141d17ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723667,
+            "neighbourhood_id":1108723997,
             "region_id":85688741,
             "venue_id":185964477
         }
     ],
     "wof:id":185964477,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273526,
     "wof:name":"Barney Neighborhood House",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108723997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

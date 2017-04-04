@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.029779,38.945668,-77.029779,38.945668",
     "geom:latitude":38.945668,
     "geom:longitude":-77.029779,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85869835,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869835
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"1a55413cf80a27b5499619c0f41e7464",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85869835,
             "region_id":85688741,
             "venue_id":387449801
         }
     ],
     "wof:id":387449801,
-    "wof:lastmodified":1472613980,
+    "wof:lastmodified":1491273466,
     "wof:name":"Home Run Baseball",
     "wof:parent_id":85869835,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.011673,38.823288,-77.011673,38.823288",
     "geom:latitude":38.823288,
     "geom:longitude":-77.011673,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85805519,
+        102191575,
+        1108723663,
         85633793,
         85931779,
-        102084889
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"ab7235d0989f4b17abc4dcb05faad37e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108723663,
+            "neighbourhood_id":85805519,
             "region_id":85688741,
             "venue_id":186130735
         }
     ],
     "wof:id":186130735,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273521,
     "wof:name":"Combined Concepts & Harry's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

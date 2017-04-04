@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.068847,38.974044,-77.068847,38.974044",
     "geom:latitude":38.974044,
     "geom:longitude":-77.068847,
@@ -34,11 +35,14 @@
     "sg:website":"www.ontrialassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85804537,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85804537
+        85688741,
+        1108723873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,30 @@
     "wof:geomhash":"78e4ca4c19735bdd2ab424d0dd0ff91d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85804537,
+            "region_id":85688741,
+            "venue_id":354246095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108723873,
             "region_id":85688741,
             "venue_id":354246095
         }
     ],
     "wof:id":354246095,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1491273721,
     "wof:name":"On Trial Assoc",
-    "wof:parent_id":85804537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

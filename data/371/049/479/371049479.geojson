@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.030822,38.987899,-77.030822,38.987899",
     "geom:latitude":38.987899,
     "geom:longitude":-77.030822,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85837643,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85837643
+        85688741,
+        420781745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"68dc9a357101607232202e06bb76c314",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85837643,
+            "region_id":85688741,
+            "venue_id":371049479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420781745,
             "region_id":85688741,
             "venue_id":371049479
         }
     ],
     "wof:id":371049479,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491273535,
     "wof:name":"T W Security",
-    "wof:parent_id":85837643,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],

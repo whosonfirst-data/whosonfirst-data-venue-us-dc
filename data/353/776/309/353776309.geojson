@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085876,38.933406,-77.085876,38.933406",
     "geom:latitude":38.933406,
     "geom:longitude":-77.085876,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        420510947,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85857115
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"717d99156c97ef7688b511e146707db6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85857115,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":420510947,
             "region_id":85688741,
             "venue_id":353776309
         }
     ],
     "wof:id":353776309,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1491273480,
     "wof:name":"Antigua & Barbuda Mission",
-    "wof:parent_id":85857115,
+    "wof:parent_id":420510947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-dc",
     "wof:superseded_by":[],
