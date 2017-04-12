@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.01356,38.976797,-77.01356,38.976797",
     "geom:latitude":38.976797,
     "geom:longitude":-77.01356,
@@ -29,11 +30,13 @@
     "sg:province":"MD",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85851759,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85851759
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"abd2fc3c1a608112f3362b6edf2c3b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85851759,
             "region_id":85688741,
             "venue_id":186247527
         }
     ],
     "wof:id":186247527,
-    "wof:lastmodified":1472613978,
+    "wof:lastmodified":1491921341,
     "wof:name":"Health Benefits ABC",
     "wof:parent_id":85851759,
     "wof:placetype":"venue",

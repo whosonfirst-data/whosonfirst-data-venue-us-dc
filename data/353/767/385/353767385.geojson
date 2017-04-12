@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.984017,38.96851,-76.984017,38.96851",
     "geom:latitude":38.96851,
     "geom:longitude":-76.984017,
@@ -32,10 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85688501,
+        102191575,
         85633793,
-        85931779,
-        102084889,
+        85949501,
+        102082719,
         85888511
     ],
     "wof:breaches":[],
@@ -46,17 +48,17 @@
     "wof:geomhash":"2de722ca685b5c4869bdc77f7dffd445",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084889,
-            "locality_id":85931779,
+            "county_id":102082719,
+            "locality_id":85949501,
             "neighbourhood_id":85888511,
-            "region_id":85688741,
+            "region_id":85688501,
             "venue_id":353767385
         }
     ],
     "wof:id":353767385,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1491921487,
     "wof:name":"Maryland National Capital Park",
     "wof:parent_id":85888511,
     "wof:placetype":"venue",

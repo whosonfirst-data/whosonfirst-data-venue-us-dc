@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.910396,38.885151,-76.910396,38.885151",
     "geom:latitude":38.885151,
     "geom:longitude":-76.910396,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85838231,
+        102191575,
+        1108723667,
         85633793,
         85931779,
         102084889,
-        85838231
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"a16f7aae6d2a4d5e90ec18b787ffd5ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723667,
             "neighbourhood_id":85838231,
             "region_id":85688741,
             "venue_id":386954363
         }
     ],
     "wof:id":386954363,
-    "wof:lastmodified":1472613979,
+    "wof:lastmodified":1492028797,
     "wof:name":"Capitol Cash Register Co Inc",
     "wof:parent_id":85838231,
     "wof:placetype":"venue",
